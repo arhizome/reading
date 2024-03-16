@@ -64,5 +64,45 @@ to represent their power. According to Nietzsche we have here a __wholly erroneo
 
 ...__the portrait of the master that Hegel offers us is, from the start, a portrait which represents the slave, at least as he is in his dreams, as at best a successful slave.__ Underneath the Hegelian image of the master we always find the slave.
 
+p13
+
+In the Birth of Tragedy __the tragic in its totality is thus defined as original contradiction__, its Dionysian solution and the dramatic expression of this solution. It is characteristic of tragic culture and its modern representatives - Kant, Schopenhauer and Wagner - to reproduce and resolve the contradiction, to resolve it in reproducing it, to resolve it on the original basis. "Its most important characteristic is that __wisdom takes the place of science as the highest end__ - wisdom that, uninfluenced by the seductive distractions of the sciences, __turns with unmoved eyes to a comprehensive view of the world and seeks to grasp, with sympathetic feelings of love, the eternal suffering as its own__" (BT 18 p. 112). 
+
+    p12
+    Dionysus and Apollo are therefore not opposed as the terms of a contradiction but rather as two antithetical ways of resolving it; Apollo mediately, in the contemplation of the plastic image, Dionysus immediately in the reproduction, in the musical symbol of the will.
+
+p14
+
+__Dionysus__ is insistently presented as the _affirmative and affirming_ god. He is __not content with "resolving" pain in a higher and suprapersonal pleasure__ but rather __he affirms it and turns it into someone's pleasure__. This is why Dionysus is himself transformed in multiple affirmations, rather than being dissolved in original being or reabsorbing multiplicity into primeval depths. __He affirms the pains of growth rather than reproducing the sufferings of individuation. He is the god who affirms life, for whom life must be affirmed, but not justified or redeemed.__
+
+p 15
+
+For Christianity the fact of suffering in __life__ means primarily that life is not just, that it is even essentially unjust, that it pays for an essential injustice by suffering, it __is blameworthy because it suffers__. __The result of this is that life must be justified__, that is to say, redeemed of its injustice or saved. __Saved by that suffering__ which a little while ago accused it: it must suffer since it is blameworthy.
+
+These two aspects of Christianity form what Nietzsche calls "bad conscience" or the internalization of pain (GMII). 
+
+They define truly Christian nihilism, that is to say the way in which __Christianity denies life__; on the one side the __machine for manufacturing guilt__, the horrible pain-punishment equation, on the other side the machine to multiply pain, the justification by pain, the dark workshop.
+
+Even when Christianity sings the praises of love and life what curses there are in these songs, what hatred beneath this love! __It loves life like the bird of prey loves the lamb; tender, mutilated and dying.__ The dialectician posits Christian love as an antithesis, for example as the antithesis of Judaic hatred. But it is the profession and mission of the dialectician to establish antitheses everywhere where there are more delicate evaluations to be made, coordinations to be interpreted. That the flower is the antithesis of the leaf, that it "refutes" the leaf - this is a celebrated discovery dear to the dialectic. This is also the way in which the flower of Christian love "refutes" hate - that is to say, in an entirely fictitious manner. "One should not imagine that love . . . grew up . . . as the opposite of Jewish hatred! No, the reverse is true! That love grew out of it as its crown, as its triumphant crown spreading itself farther and farther into the purest brightness and sunlight, driven as it were into the domain of light and the heights in the pursuit of the goals of that hatred-victory, spoil and seduction" (GM 18 p. 35*).
+
+__How different this aspect is from the true Dionysus!__ The Dionysus of the Birth of Tragedy still "resolved" pain, the joy that he experienced was still the joy of resolving it and also of bearing this resolution in the primeval unity. But now Dionysus has seized the sense and value of his own transformations, he is the god for whom __life does not have to be justified__, for whom life is essentially just. 
+
+Moreover it is life which takes charge of justification, "it affirms even the harshest suffering" (VP IV 464). We must be clear, it does __not resolve pain by internalising it, it affirms it in the element of its exteriority__. And, from this, the opposition of Dionysus and Christ is developed point by point as that of the affirmation of life (its extreme valuation) and the negation of life (its extreme depreciation). 
+
+p16
+
+...there are __two kinds of suffering and sufferers__. 
+
+__"Those who suffer from the superabundance of life"__ make suffering an affirmation in the same way as they make intoxication an activity; in the laceration of Dionysus they recognise the extreme form of affirmation, with no possibility of subtraction, exception or choice.
+
+__"Those who suffer__, on the contrary, __from an impoverishment of life"__ make intoxication a convulsion, a numbness; they make suffering a means of accusing life, of contradicting it and also a means of justifying life, of resolving the contradiction.
+
+there is no more beautiful __saviour__ than the one __who would be__ simultaneously __executioner, victim and comforter__, the Holy Trinity, the wonderful dream of bad conscience.
+
+From the point of view of a saviour, "life must be the path which leads to sainthood". From the point of view of Dionysus, __"existence seems holy enough by itself to justify a further immensity of suffering"__ (VP IV 464).
+
+
+
+
 
 notes on p214
