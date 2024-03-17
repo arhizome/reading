@@ -120,5 +120,26 @@ p19
 
 A god was needed to __interpret existence__. It was __necessary to accuse life in order to redeem it, to redeem it in order to justify it.__ Existence was evaluated but __always from the standpoint of bad conscience.__
 
+As we have seen suffering was used as a way of proving the injustice of __existence__, but at the same time as a way of finding a higher and divine justification for it. (__It is blameworthy because it suffers, but because it suffers it is atoned for and redeemed.__)
 
-notes on p214
+The Greeks themselves interpreted and evaluated __existence as excess.__
+
+p20
+
+But he only had to discover the true Dionysus in order to see the __trap__ it hides or the end it served: it made __existence a moral and religious phenomenon__! Existence seems to be given so much by being made a crime, an excess. It gains a double nature - an immense injustice and a justifying atonement. It is Titanised by crime, it is made divine by the expiation of crime. And what is there at the end of all this if not a __subtle way of depreciating existence__, of __subjecting it to judgment__, __moral judgment__ and above all __God's judgment__?
+
+p21
+
+"Everywhere where __responsibilities__ have been sought it is the instinct of __revenge__ that __has sought them__. This instinct of __revenge__ has gained such a hold on humanity through the centuries that __all of metaphysics, psychology, history and above all morality bear its imprint__. As soon as man began thinking he introduced the bacillus of revenge into things" (VP III 458).
+
+"I wished to conquer the feeling of a full irresponsibility, to __make myself independent of praise and blame__, of present and past" (VP III 383, 465). __Irresponsibility - Nietzsche's most noble and beautiful secret.__
+
+When the Greeks spoke of __existence as criminal and "hubric" they thought that the gods had driven men mad__; existence is blameworthy but it is the __gods who take upon themselves the responsibility for the fault__. This is the __great difference between__ the Greek interpretation of __crime__ and the Christian interpretation of __sin__. "'Foolishness', 'folly', a little 'disturbance in the head', this much even the Greeks of the strongest, bravest age conceded of themselves as __the reason for much that was bad__ and calamitous - __foolishness, not sin!__ ... 'He must have been deluded by a god' they concluded finally, shaking their heads . . . In this way the __gods__ served in those days to justify man to a certain extent even in his wickedness, they served as originators of evil - in those days they __took upon themselves not the punishment but__, what is nobler, __the guilt__." (GM II 23 p. 94).
+
+
+
+
+
+
+p15 Abbreviations of Nietzsche's Works
+p214 Notes
