@@ -105,7 +105,8 @@ p17
 
 Dionysus affirms all that appears, "even the most bitter suffering", and appears in all that is affirmed.
 
-__Multiple and pluralist affirmation__ - this is the essence of the tragic. <!--Tragic for Scyan.--> ... We must find, for each thing in turn, the special means by which it is affirmed, by which it ceases to be negative.
+__Multiple and pluralist affirmation__ - this is the essence of the tragic. 
+... We must find, for each thing in turn, the special means by which it is affirmed, by which it ceases to be negative.
 
 What __defines the tragic is the joy of multiplicity, plural joy__. This joy is not the result of a sublimation, a purging, a compensation, a resignation or a reQQtt'Cili&tion.
 ...
@@ -115,7 +116,9 @@ __It is joy that is tragic.__ But this means that tragedy is immediately joyful,
 
 And indeed, a true renaissance is needed in order to __liberate the tragic from all the fear or pity of__ the bad listeners who gave it a mediocre sense born of __bad conscience__.
 
+p19
 
+A god was needed to __interpret existence__. It was __necessary to accuse life in order to redeem it, to redeem it in order to justify it.__ Existence was evaluated but __always from the standpoint of bad conscience.__
 
 
 notes on p214
