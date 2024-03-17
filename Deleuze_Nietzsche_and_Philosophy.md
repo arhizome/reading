@@ -101,6 +101,19 @@ there is no more beautiful __saviour__ than the one __who would be__ simultaneou
 
 From the point of view of a saviour, "life must be the path which leads to sainthood". From the point of view of Dionysus, __"existence seems holy enough by itself to justify a further immensity of suffering"__ (VP IV 464).
 
+p17
+
+Dionysus affirms all that appears, "even the most bitter suffering", and appears in all that is affirmed.
+
+__Multiple and pluralist affirmation__ - this is the essence of the tragic. <!--Tragic for Scyan.--> ... We must find, for each thing in turn, the special means by which it is affirmed, by which it ceases to be negative.
+
+What __defines the tragic is the joy of multiplicity, plural joy__. This joy is not the result of a sublimation, a purging, a compensation, a resignation or a reQQtt'Cili&tion.
+...
+__tragedy as an aesthetic phenomenon__. The __tragic is the aesthetic form of joy, not a medical phrase or a moral solution to pain, fear or pity.__ 
+
+__It is joy that is tragic.__ But this means that tragedy is immediately joyful, that it only calls forth the fear and pity of the obtuse spectator, __the pathological and moralising listener__ who counts on it to ensure the proper functioning of his moral sublimations and medical purgings.
+
+And indeed, a true renaissance is needed in order to __liberate the tragic from all the fear or pity of__ the bad listeners who gave it a mediocre sense born of __bad conscience__.
 
 
 
