@@ -136,9 +136,54 @@ p21
 
 When the Greeks spoke of __existence as criminal and "hubric" they thought that the gods had driven men mad__; existence is blameworthy but it is the __gods who take upon themselves the responsibility for the fault__. This is the __great difference between__ the Greek interpretation of __crime__ and the Christian interpretation of __sin__. "'Foolishness', 'folly', a little 'disturbance in the head', this much even the Greeks of the strongest, bravest age conceded of themselves as __the reason for much that was bad__ and calamitous - __foolishness, not sin!__ ... 'He must have been deluded by a god' they concluded finally, shaking their heads . . . In this way the __gods__ served in those days to justify man to a certain extent even in his wickedness, they served as originators of evil - in those days they __took upon themselves not the punishment but__, what is nobler, __the guilt__." (GM II 23 p. 94).
 
+p26
 
+The __dice__ which are thrown once are the __affirmation of chance__, the combination which they form on falling is the affirmation of necessity. __Necessity is affirmed of chance in exactly the sense that being is affirmed of becoming and unity is affirmed of multiplicity.__
 
+just as __unity does not suppress or deny multiplicity__, __necessity does not suppress or abolish chance__. Nietzsche identifies chance with multiplicity, with fragments, with parts, with chaos: the chaos of the dice that are shaken and then thrown. Nietzsche __turns chance into an affirmation.__
 
+p31
+
+From the pluralist standpoint a sense is referred to __the differential element__ from which its significance is derived, just as values are referred to the differential element from which their value is derived. This element which __is always present__, but also always implicit and hidden in the poem or aphorism __is like the second dimension of sense and values.__ __It is by developing this element and by developing itself in it that philosophy__ in its essential relation with the poem and the aphorism __constitutes complete interpretation and evaluation__, that is to say, __the art of thinking__, faculty of thought or "faculty of rumination" (GM Preface 8 p. 23).
+
+__Rumination and eternal return__: two stomachs are not too many for thinking.
+
+p32
+
+__To think is to send out a dicethrow.__ Only a dicethrow, on the basis of chance, could affirm necessity and produce "the unique number which cannot be another".
+
+The dice which fall are a constellation, their points form the number "born of the stars". The table of the dicethrow is therefore double, sea of chance and sky of necessity, midnight-midday.
+
+Not only is the __throwing of the dice__ an __unreasonable and irrational, absurd and superhuman__ act, but it constitutes the tragic attempt and __the tragic thought par excellence__.
+
+__The number-constellation is, or could be, the book, the work of art as outcome__ and justification __of the world.__
+
+p33 
+
+The dicethrow is nothing when detached from innocence and the affirmation of chance. __The dicethrow is nothing if chance and necessity are opposed in it.__
+
+p34
+
+Nietzsche calls __the enterprise of denying life and depreciating existence nihilism.__ He analyses the principal forms of nihilism, ressentiment, bad conscience, ascetic ideal; the whole of nihilism and its forms he calls the spirit of revenge. But, the different forms of nihilism are __not at all reducible to psychological determinations, historical events or ideological currents, not even to metaphysical structures.__
+
+The spirit of revenge is undoubtedly expressed biologically, psychologically, historically and metaphysically; the spirit of revenge is a type, it is not separable from a typology, the key stone of Nietzschean philosophy.
+
+__Ressentiment is not part of psychology but the whole of our psychology, without knowing it, is a part of ressentiment.__
+
+when Nietzsche undertakes the critique of nihilism he makes __nihilism the presupposition of all metaphysics__ rather than the expression of particular metaphysics: __there is no metaphysics which does not judge and depreciate life in the name of a supra-sensible world.__
+
+We cannot even say that nihilism and its forms are categories of thought, for __the categories of thought, of reasonable thought - identity, causality, finality - themselves presuppose an interpretation of force which is that of ressentiment.__ 
+
+"__The instinct of revenge__ has gained such a hold on humanity over the centuries that the __whole of metaphysics, psychology, history and above all morality bear its imprint.__ As soon as man began thinking he  introduced the bacillus of revenge into things" (VP III 458).
+
+p35
+
+__For a long time we have only been able to think in terms of ressentiment and bad conscience.__ We have had no other ideal but the ascetic ideal. We have opposed knowledge to life in order to judge life, in order to make it something blameworthy, responsible or erroneous. __We turned will into something bad, something stricken by a basic contradiction: we have said that it must be rectified, restrained, limited and even denied and suppressed.__
+
+p36
+
+"It is not necessary to wait", Nietzsche says, "for unhappiness, as those who make philosophy derive from dissatisfaction think. __It is in happiness that one must begin, in full virile maturity, in the fire of this burning joy which is that of the adult and victorious age__" (PTG 1).
+<!-- The myth of the "happy childhood". We start from unhappiness. -->
 
 
 p15 Abbreviations of Nietzsche's Works
