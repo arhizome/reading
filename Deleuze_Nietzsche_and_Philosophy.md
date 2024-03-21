@@ -1,4 +1,6 @@
 
+# The Tragic
+
 p1
 __Evaluations__, in essence, __are__ not values but __ways of being__, modes of existence of those who judge and evaluate, serving as principles for the values on the basis of which
 they judge.
@@ -185,6 +187,27 @@ p36
 "It is not necessary to wait", Nietzsche says, "for unhappiness, as those who make philosophy derive from dissatisfaction think. __It is in happiness that one must begin, in full virile maturity, in the fire of this burning joy which is that of the adult and victorious age__" (PTG 1).
 <!-- The myth of the "happy childhood". We start from unhappiness. -->
 
+# Active and Reactive
+
+p39
+
+__Spinoza__ suggested a new direction for the sciences and philosophy. He said that __we do not even know what a body can do, we talk about consciousness and spirit and chatter on about it all, but we do not know what a body is capable of, what forces belong to it or what they are preparing for__. Nietzsche knew that the hour had come, "We are in the phase of modesty of consciousness" (VP II 261/WP 676).
+
+However, __consciousness is defined less__ in relation to exteriority (__in terms of the real__) __than__ in relation to superiority (__in terms of values__).
+
+"Consciousness usually only appears when a whole wants to subordinate itself to a superior whole . . . Consciousness is born in relation to a being of which we could be a function" (VP II227). This is the servility of  consciousness; it merely testifies to the "formation of a superior body".
+
+p40 
+
+__There is no quantity of reality, all reality is already quantity of force.__
+
+Inferior forces do not, by obeying, cease to be forces distinct from those which command. Obeying is a quality of force as such and relates to power just as much as commanding does: "__individual power is by no means surrendered.__ In the same way, _there is in commanding an admission that the absolute power of the opponent has not been vanquished, incorporated, disintegrated._ __'Obedience' and 'commanding' [both] are forms of struggle.__" (VP II 91/WP 642) 
+
+p42
+
+_The idea that science must follow in the footsteps of consciousness_, in the same directions, _is absurd._ We can sense _the morality in this idea_. In fact there can only be science where there is no consciousness, where there can be no consciousness.
+
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
+
