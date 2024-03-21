@@ -208,6 +208,15 @@ p42
 _The idea that science must follow in the footsteps of consciousness_, in the same directions, _is absurd._ We can sense _the morality in this idea_. In fact there can only be science where there is no consciousness, where there can be no consciousness.
 
 
+p47
+
+By persisting in demanding how becoming could have started and why it has not yet finished, the philosophers of antiquity are __false__ tragics, __invoking hubris, crime and punishment__.
+
+p51
+
+it is through will to power that [a force] obeys
+
+
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
 
