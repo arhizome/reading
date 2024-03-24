@@ -216,6 +216,85 @@ p51
 
 it is through will to power that [a force] obeys
 
+p54
+
+__Affirming and denying, appreciating and depreciating, express the will to power just as acting and reacting express force__. (And just as reactive forces are still forces, the will to deny, nihilism, is still will to power: " . . . a will to nothingness, an aversion to life, a rebellion against the most fundamental presuppositions of life; but it is and remains a will!" GM III 28 p. 163)
+
+There is a deep affinity, a complicity, but never a confusion, between action and affirmation, between reaction and negation.
+
+On the one hand, it is clear that there is __affirmation in every action__ and __negation in every reaction__. But, on the other hand, __action and reaction are__ more like means, __means or instruments of the will to power which affirms and denies__, just as reactive forces are instruments of nihilism.
+
+Affirmation is not action but the power of becoming active, becoming active personified. Negation is not simple reaction but a becoming reactive.
+
+p57
+
+"vile", "ignoble" and "slave" comes from - these words designate the state of reactive forces that place themselves on high and entice active force into a trap, __replacing masters with slaves who do not stop being slaves.__
+
+p58
+
+active forces are the superior, dominant and strongest forces. But inferior forces can prevail without ceasing to be inferior in quantity and reactive in quality, without ceasing to be slaves in this sense. One of the finest remarks in The Will to Power is: "__The strong always have to be defended against the weak__" (VP I 395).
+
+Everything that separates a force from what it can do he calls law. __Law__, in this sense, __expresses the triumph of the weak over the strong.__ Nietzsche adds: the triumph of reaction over action.
+
+The slave does not stop being a slave by being triumphant; when the weak triumph it is not by forming a greater force but by separating force from what it can do.
+
+p59
+
+How can he explain to Socrates that __"desire" is not the association of a pleasure and a pain__, the pain of  experiencing it and the pleasure of satisfying it? How can he explain that __pleasure and pain are reactions, properties of reactive forces, the proof of adaptation or lack of it__? And how can Socrates be made to understand that __the weak do not form a stronger force__? Socrates has partially misunderstood and partially misheard - he is too full of dialectical ressentiment and the spirit of revenge.
+
+Nietzsche also encounters his own Socrates. These are the free thinkers. They say: "What are you complaining about? How could the weak have triumphed if they did not form superior force?" "Let us bow down before accomplished fact" (GM I 9). This is __modern positivism__. They claim to carry out the __critique of values__, they claim to __refuse all appeals to transcendent values__, they declare them unfashionable, but only in order to rediscover them as the force which run the world of today. The value of Church, morality, State etc. is only discussed so that their human force and content can be admired.
+
+p60
+
+__The free thinker__ wants to recover the content of religion but never considers that __religion__ might in fact __contain man's basest forces__, forces which we might want to leave behind. This is why we can have no confidence in the free thinker's atheism, even when he's a democrat and a socialist: "__It is the church, and not its poison that repels us__" (GM I 9 p. 36). The essential characteristics of the free thinker's positivism and humanism are fatalism, interpretative impotence and ignorance of the qualities of force.
+
+__the fact is always something used by the weak against the strong__; "the fact is __always stupid__, having at all times resembled a calf rather than a god" (UM II "Use and Abuse of History" 8)
+
+"There are no facts, nothing but interpretations" (VP II 133)
+
+p61
+
+__Strength or weakness__ cannot be judged by taking the result and success of struggle as a criterion.
+
+p62
+
+__will to power is manifested as a capacity for being affected.__ This capacity is not an abstract possibility, it is necessarily fulfilled and actualised at each moment by the other forces to which a given force relates.
+
+__The more ways a body could be affected the more force it had.__
+
+the __capacity for being affected is__ not necessarily a passivity but an affectivity, a sensibility, a sensation.
+
+"The will to power is not a being not a becoming, but a pathos" (VP II 311/WP 635)
+
+p63
+
+"The fact is that __the will to power rules even in the inorganic world__, or rather that there is no inorganic world. __Action at a distance cannot be eliminated, for one thing attracts another and a thing feels itself attracted.__ This is the fundamental fact. . .In order for the will to power to be able to manifest itself it needs to perceive the things it sees and feel the approach of what is assimilable to it" (VP II 89).
+
+The effects of force are active insofar as the __force appropriates anything that resists it__ and compels the obedience of inferior force.
+
+Again, __obeying is a manifestation of the will to power__.
+
+not only do __disintegration, division and separation always express will to power__ but so do being disintegrated, being separated and being divided: "Division appears as the consequence of the will to power" (VP II73).
+
+All __sensibility is only a becoming of forces__.
+
+p65
+
+shepherd "writhing, choking, convulsed, his face  distorted", a heavy black snake hanging out of his mouth (Z III "Of the Vision and the Riddle" p. 180). Later, Zarathustra himself explains the vision: "The great disgust at man - it choked me and had crept into my throat. . .
+
+. . .And eternal return, even for the smallest - that was my __disgust__ at all existence! Ah, disgust! Disgust! Disgust!" (Z III "The Convalescent" pp. 235-6).
+
+In order to affirm the eternal return it is necessary to bite off and spit out the snake's head. Then the shepherd is no longer either man or shepherd, "he was transformed, surrounded with light, he was laughing! Never yet on earth had any man laughed as he laughed" (Z III "Of the Vision and the Riddle" p. 80*). Another becoming, another sensibility: the Overman.
+<!-- Becoming the Overman is to get rid of disgust. -->
+
+p66
+
+A __reactive force__ can certainly be considered from different points of view. Illness for example . . . __They separate us from our power but at the same time they give us another power, "dangerous" and "interesting".__ They bring us __new feelings and teach us new ways of being affected__. There is something __admirable__ in the becoming-reactive of forces, admirable and dangerous. Not only the sick man, but even the religious man present this double aspect: reactive on the one hand, possessing a new power on the other. "Human history would be altogether too stupid a thing without the spirit that the impotent have introduced into it" (GM I 7 p. 33). 
+
+p67
+
+_There are reactive forces that become grandiose and fascinating by following the will to nothingness and there are active forces that subside because they do not know how to follow the powers of affirmation._
+
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
