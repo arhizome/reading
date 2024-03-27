@@ -295,6 +295,43 @@ p67
 
 _There are reactive forces that become grandiose and fascinating by following the will to nothingness and there are active forces that subside because they do not know how to follow the powers of affirmation._
 
+# Critique
+
+p74
+
+Wecan guess __the source of "utility"__: it is the source of all passive concepts in general, __ressentiment__, nothing but the requirements of ressentiment. Utility serves us as an example here. But, in any case, the taste for replacing real relations between forces by an abstract relation which is supposed to express them all, as a measure, seems to be an integral part of science and also of philosophy. In this respect Hegel's objective spirit is no more valid than the no less "objective" concept of utility. Now, in this abstract relation, whatever it is, we always end up replacing real activities (creating, speaking, loving etc.) by the third party's perspective on these activities: __the essence of the activity is confused with the gains of a third party__, which he claims that he ought to profit from, whose benefits he claims the right to reap (_whether he is God, objective spirit, humanity, culture or even the proletariat_. . .).
+
+p77
+
+when we ask the question "what is it?" (qu'est-ce que) we not only fall into the worst metaphysics but in fact we merely ask the question "which one?" in a blind, unconscious and confused way. The question "what is it?" is a way of establishing a sense seen from another point of view. __Essence, being, is a perspectival reality and presupposes a plurality.__ Fundamentally it is __always the question "What is it for me?"__ (for us, for everyone that sees etc.) (VP 1204).
+
+p79
+
+According to Nietzsche the__ inhuman and the superhuman__ - a thing, an animal or a god - are __no less capable of dramatisation__ than a man or his determinations. They too are transformations of Dionysus, __symptoms of a will which wants something__.
+
+p80
+
+__As if power were what the will wanted.__ But, such a conception implies at least three misunderstandings which threaten the whole philosophy of the will:
+1) Power is interpreted as the object of representation.
+... 
+In Hobbes, man in the state of nature wants to see his __superiority represented and recognised by others__. In Hegel, __consciousness__ wants to be __recognised by another and represented as self-consciousness__. Even in Adler it is still a matter of the representation of a superiority which, when necessary, compensates for the existence of an organic inferiority. 
+...
+Nietzsche asks: __who conceives of the will to power as a will to get oneself recognised?__ Who conceives of power itself as the object of a recognition? Who essentially wants to be represented as superior and even wants his inferiority to be represented as superiority? It is the sick who want "to represent superiority under any form whatsoever" (GM III 14). "__It is the slave__ who seeks to persuade us to have a good opinion of him; it is also __the slave__ who then __bends his knee before these opinions as if it wasn't him who produced them.__
+
+p81
+In fact __everything has happened between slaves, conquering or conquered__. The __mania for representing, for being represented__, for getting oneself represented; for having representatives and representeds: this is the mania that is common to all slaves, the only relation between themselves they can conceive of, the relation that they impose with their triumph.
+
+"The common man never had any value but that which was attributed to him; in no way accustomed to positing values himself, he attributed to himself no other value than that which was recognised in him" (BGE 261), or even that which he got them to recognise.
+
+p82
+
+It is characteristic of established values to be brought into play in a struggle, but it is __characteristic of the struggle to be always referred to established values__: whether it is __struggle for power, struggle for recognition or struggle for life - the schema is always the same__. 
+
+One cannot overemphasise the extent to which the notions of struggle, war, rivalry or even comparison are foreign to Nietzsche and to his conception of the will to power. It is not that he denies the existence of __struggle__: but he does not see it as __in any way creative of values__. At least, __the only values that it creates are those of the triumphant slave__. 
+
+__Struggle is not the principle or the motor of hierarchy but the means by which the slave reverses hierarchy.__ Struggle is never the active expression of forces, nor the manifestation of a will to power that affirms—any more than its result expresses the triumph of the master or the strong. __Struggle__, on the contrary, __is the means by which the weak prevail over the strong__, because they are the greatest number. This is why Nietzsche is opposed to Darwin: __Darwin confused struggle and selection__. He failed to see that the result of struggle was the opposite of what he thought; that it does select, but it selects only the weak and assures their triumph (VP I 395, TI). 
+
+
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
