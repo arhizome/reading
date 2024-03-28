@@ -331,6 +331,9 @@ One cannot overemphasise the extent to which the notions of struggle, war, rival
 
 __Struggle is not the principle or the motor of hierarchy but the means by which the slave reverses hierarchy.__ Struggle is never the active expression of forces, nor the manifestation of a will to power that affirms—any more than its result expresses the triumph of the master or the strong. __Struggle__, on the contrary, __is the means by which the weak prevail over the strong__, because they are the greatest number. This is why Nietzsche is opposed to Darwin: __Darwin confused struggle and selection__. He failed to see that the result of struggle was the opposite of what he thought; that it does select, but it selects only the weak and assures their triumph (VP I 395, TI). 
 
+p87
+
+The creator of values cannot be distinguished from a destroyer, from a criminal or from a critic: a critic of established values, reactive values and baseness.
 
 
 p15 Abbreviations of Nietzsche's Works
