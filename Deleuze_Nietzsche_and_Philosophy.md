@@ -335,6 +335,20 @@ p87
 
 The creator of values cannot be distinguished from a destroyer, from a criminal or from a critic: a critic of established values, reactive values and baseness.
 
+p89
+
+__Kant__ merely pushed a very old conception of critique to the limit, a conception which saw __critique as a force which should be brought to bear on all claims to knowledge and truth, but not on knowledge and truth themselves__; a force which should be brought to bear __on all claims to morality, but not on morality itself__.
+
+
+Critique is nothing and says nothing insofar as it is content to say that true morality makes fun of morality. __Critique has done nothing insofar as it has not been brought to bear on truth itself, on true knowledge, on true morality, on true religion.__
+
+Every time that __Nietzsche denounces virtue__ he is __not__ denouncing __false virtues__, nor those which make use of virtue as a mask. It is __virtue itself in itself, that is to say the pettiness of true virtue, the unbelievable mediocrity of true morality, the baseness of its authentic values that he attacks__.
+
+p92
+
+"Their 'knowing' is creating, their creating is a law-giving, their will to truth is - will to power" (BGE 211 p. 123). 
+
+__Understanding and reason__ have a long history: they are instances which still __make us obey__ when we no longer want to obey anyone. When we stop obeying God, the State, our parents, reason appears and persuades us to continue being docile because it says to us: it is you who are giving the orders. Reason represents our slavery and our subjection as some thing superior which make us reasonable beings.
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
