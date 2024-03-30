@@ -350,6 +350,32 @@ p92
 
 __Understanding and reason__ have a long history: they are instances which still __make us obey__ when we no longer want to obey anyone. When we stop obeying God, the State, our parents, reason appears and persuades us to continue being docile because it says to us: it is you who are giving the orders. Reason represents our slavery and our subjection as some thing superior which make us reasonable beings.
 
+p97
+
+Nevertheless, there is perhaps __one reason why we might like to distinguish and even oppose knowledge, morality and religion__. We ascended from truth to the ascetic ideal in order to discover the source f the concept of truth. Let us for a moment turn our attention to ?olution instead of genealogy: let us descend again from the ascetic or religious ideal to the will to truth. We must then acknowledge that orality has replaced religion as a dogma and that science is increasingly replacing morality. 
+
+p98
+
+__Morality is the continuation of religion__ but by other means; __knowledge is the continuation of morality and religion__ but by other means. The ascetic ideal is everywhere, but its means change, they are no longer the same reactive forces. This is why critique is so easily confused with a settling of accounts between different reactive forces.
+
+he will to truth is still part of the ascetic ideal
+
+As soon as we ask __what the ascetic and religious ideal is__, as soon as we put this question to the ideal itself, __morality or virtue come forward to answer in its stead.__ 
+
+__Virtue says__: "What you are attacking is myself, I answer for the ascetic ideal; in religion there is bad but there is also good; I have collected this good together, it is I who wills this good." 
+
+And when we ask: "__but what is this virtue, what does it want?__" the same story begins again. 
+
+__Truth itself comes forward saying__: "It is I who wills virtue, I answer for virtue. It is my mother and my goal. I am nothing if I do not lead to virtue. And who will deny that I am something?"
+
+__truth itself is not beyond criticism or in possession of a divine right__. Critique must be a critique of truth itself. 
+
+p99
+__what meaning would our whole being possess if__ it were not this, that in us __the will to truth becomes conscious of itself as a problem__?
+
+In this sense we too are "truthfull" or "seekers after knowledge". But __we do not replace the ascetic ideal__, we let nothing of the place itself remain, __we want to destroy the place, we want another ideal in another place, another way of knowing, another concept of truth__, that is to say a truth which is not presupposed in a will to truth but which presupposes a completely different will.
+
+
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
 
