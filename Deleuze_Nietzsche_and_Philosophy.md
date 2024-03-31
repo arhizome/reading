@@ -375,6 +375,16 @@ __what meaning would our whole being possess if__ it were not this, that in us _
 
 In this sense we too are "truthfull" or "seekers after knowledge". But __we do not replace the ascetic ideal__, we let nothing of the place itself remain, __we want to destroy the place, we want another ideal in another place, another way of knowing, another concept of truth__, that is to say a truth which is not presupposed in a will to truth but which presupposes a completely different will.
 
+p102
+
+_Art is always judged from the point of view of the spectator_ and a less and less artistic spectator at that. __Nietzsche demands an aesthetics of creation__, the aesthetics of Pygmalion. But why, from this new standpoint, does art emerge as a stimulant of the will to power? Why does the will to power need something to excite it when it needs no motive, goal or representation? This is because it can only be set up as affirmative in relation to active forces, to an active life. __Affirmation is the product of a way of thinking which presupposes an active life__ as its condition and concomitant. 
+
+__art is the highest power of falsehood__, it magnifies the "world as error", it sanctifies the lie; the will to deception is turned into a superior ideal.
+
+p103
+
+For the artist, appearance no longer means the negation of the real in this world but this kind of selection, correction, redoubling and affirmation.28 Then truth perhaps takes on a new sense. __Truth is appearance__. Truth means bringing of power into effect, raising to the highest power. In Nietzsche, __"we the artists" = "we the seekers after knowledge or truth" = "we the inventors of new possibilities of life".__
+
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
