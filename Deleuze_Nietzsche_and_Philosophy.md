@@ -385,6 +385,24 @@ p103
 
 For the artist, appearance no longer means the negation of the real in this world but this kind of selection, correction, redoubling and affirmation.28 Then truth perhaps takes on a new sense. __Truth is appearance__. Truth means bringing of power into effect, raising to the highest power. In Nietzsche, __"we the artists" = "we the seekers after knowledge or truth" = "we the inventors of new possibilities of life".__
 
+The __dogmatic image of thought__ can be summarised in three essential
+theses:
+1) We are told that the thinker as __thinker wants and loves truth__ 
+2) We are also told that __we are "diverted" from the truth by__ forces which are foreign to it (__body, passions, sensuous interests__).
+3) We are told, finally, that all we need to think well, to think truthfully, is a method.
+
+The most curious thing about this image of thought is the way in which __it conceives of truth as an abstract universal__. We are never referred to the real forces that form thought, thought itself is never related to the real forces that it presupposes as thought. __Truth is never related to what it presupposes.__
+
+But there is no truth that, before being a truth, is not the bringing into effect of a sense or the realisation of a value. Truth, as a concept, is entirely undetermined. __Everything depends on the value and sense of what we think.__ 
+
+__We always have the truths we deserve as a function of the sense of what we conceive, of the value of what we believe.__ Any thinkable or thought sense is only brought into effect insofar as the forces that correspond to it in thought also take hold of something, appropriate something, outside thought. Clearly __thought cannot think by itself__, any more than it can find truth by itself. The truth of a thought must be interpreted and evaluated according to the forces or power that determine it to think and to think this rather than that.
+
+When we speak of "plain truth", of truth "in itself, "for itself or even "for us", we must ask what forces are hiding themselves in the thought of this truth, and therefore what its sense and value is. 
+
+It is disturbing that truth conceived as an abstract universal, thought conceived as pure science, has never hurt anyone.
+<!-- AHAHAHA!!! xD Yeah, that never happened! -->
+
+
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
