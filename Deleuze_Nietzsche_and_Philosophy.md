@@ -383,7 +383,7 @@ __art is the highest power of falsehood__, it magnifies the "world as error", it
 
 p103
 
-For the artist, appearance no longer means the negation of the real in this world but this kind of selection, correction, redoubling and affirmation.28 Then truth perhaps takes on a new sense. __Truth is appearance__. Truth means bringing of power into effect, raising to the highest power. In Nietzsche, __"we the artists" = "we the seekers after knowledge or truth" = "we the inventors of new possibilities of life".__
+For the artist, appearance no longer means the negation of the real in this world but this kind of selection, correction, redoubling and affirmation. Then truth perhaps takes on a new sense. __Truth is appearance__. Truth means bringing of power into effect, raising to the highest power. In Nietzsche, __"we the artists" = "we the seekers after knowledge or truth" = "we the inventors of new possibilities of life".__
 
 The __dogmatic image of thought__ can be summarised in three essential
 theses:
@@ -395,6 +395,8 @@ The most curious thing about this image of thought is the way in which __it conc
 
 But there is no truth that, before being a truth, is not the bringing into effect of a sense or the realisation of a value. Truth, as a concept, is entirely undetermined. __Everything depends on the value and sense of what we think.__ 
 
+104
+
 __We always have the truths we deserve as a function of the sense of what we conceive, of the value of what we believe.__ Any thinkable or thought sense is only brought into effect insofar as the forces that correspond to it in thought also take hold of something, appropriate something, outside thought. Clearly __thought cannot think by itself__, any more than it can find truth by itself. The truth of a thought must be interpreted and evaluated according to the forces or power that determine it to think and to think this rather than that.
 
 When we speak of "plain truth", of truth "in itself, "for itself or even "for us", we must ask what forces are hiding themselves in the thought of this truth, and therefore what its sense and value is. 
@@ -402,7 +404,61 @@ When we speak of "plain truth", of truth "in itself, "for itself or even "for us
 It is disturbing that truth conceived as an abstract universal, thought conceived as pure science, has never hurt anyone.
 <!-- AHAHAHA!!! xD Yeah, that never happened! -->
 
+In fact the established order and current values constantlyfind their best support in truth conceived in this way
 
+This is what the dogmatic image of thought conceals: the work of established forces that determine thought as pure science, the work of established powers that are ideally expressed in truth in itself. 
+
+A new image of thought means primarily that truth is not the element of thought. The element of thought is sense and value.
+
+p105
+
+__The concept of error__ would therefore press, by right, the worst that can happen to thought, that is to say the state of thought separated from truth. 
+
+Here again Nietzsche accepts the problem as it is posed by right. But, in reality, the almost __laughable character of the examples__ usually invoked by philosophers in order __to illustrate error__ (saying "Hello Thaetetus . . ." when one meets Theodore . . . saying "3 + 2 = 6") is enough to __show that this concept__ of error is merely the extrapolation of __puerile, artificial or grotesque factual situations__. 
+
+Who says "3 + 2 = 6" apart from the small child at school? Who says "Hello Thaetetus. . ."apart from the short-sighted or the absent-minded? 
+
+<!-- Trans lense for Thaetetus, name change that refuses to be accepted. And for 3+2: number are signs, there can be another framework here, too. 1+1=10 absolutely correct in a binary system, an error in a decimal system. -->
+
+Mature, considered thought has other enemies; negative states which are profound in entirely different ways. 
+
+__Stupidity is a structure of thought__ as such: it is not a means of self-deception, it expresses the non-sense in thought by right. __Stupidity is not error__ or a tissue of errors. There are imbecile thoughts, imbecile discourses, that are made up entirely of truths; but these truths are base, they are those of a base, heavy and leaden soul.
+
+__The concept of truth can only be determined on the basis of a pluralist typology.__ And typology begins with a topology.
+
+Subjecting truth to the test of the base, but also subjecting falsity to the test of the high: this is the really critical task and the only way of knowing where one is in relation to "truth". 
+
+p106
+
+Philosophy's mystification begins, however, from the moment it renounces its role as demystifier and takes the established powers into consideration: when it gives up the harming of stupidity and the denunciation of baseness.
+
+p107
+
+__the image of the philosopher__ is constantly __obscured__. He is turned into a sage, he who is only the friend of wisdom, friend in an ambiguous sense, that is to say, an anti-sage, he who must be __masked with wisdom in order to survive.__
+
+Unlike the atemporal concept of error, __baseness is inseparable from time__, that is from this rapture of the present, from this present condition in which it is incarnated and in which it moves.
+
+And in the untimely there are truths that are more durable than all historical and eternal truths put together: truths of times to come.
+
+The succession of philosophers is __not an eternal sequence of sages__, still less a historical sequence, but a __broken succession__, a succession __of comets__.
+
+p108
+
+__Thinking depends on forces which take hold of thought.__ Insofar as our thinking is controlled by reactive forces, insofar as it finds its sense in reactive forces, we must admit that we are not yet thinking. Thinking means the activity of thought; but __thought has its own ways of being inactive which can occupy it and all its forces entirely.__
+
+Thinking, like activity, is always a second power of thought, not the natural exercise of a faculty, but an extraordinary event in thought itself, for thought itself. __Thinking is the n-th power of thought.__ It is still necessary for it to become __"light", "affirmative", "dancing"__. But __it will never attain this power if forces do not do violence to it__. Violence must be done to it as thought, a power, the force of thinking, must throw it into a becoming-active. A constraint a training of this kind is what Nietzsche calls __"Culture"__.
+
+We will only understand the concept of __culture__ if we grasp all the ways in which it is __opposed to method__. _Method always presupposes the good will of the thinker_, "a premeditated decision". __Culture__, on the contrary, __is a violence undergone by thought__, a process of formation of thought through the action of selective forces, a training which brings the whole unconscious of the thinker into play.
+
+p109
+
+__When a State encourages culture "it only encourages it in order to be encouraged itself__, and it never conceives that there is an aim superior to its own good and existence".
+
+p110
+
+__There is nothing more false than the idea of "founts" of truth.__
+
+The anecdote is to life what the aphorism is to thought: something to interpret.
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
