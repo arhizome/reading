@@ -460,6 +460,16 @@ __There is nothing more false than the idea of "founts" of truth.__
 
 The anecdote is to life what the aphorism is to thought: something to interpret.
 
+p111
+
+In the normal or healthy state the role of reactive forces is always to limit action.  They divide, delay or hinder it by means of another action whose effects we feel
+
+reaction alone cannot constitute ressentiment. Ressentiment designates a type in which reactive forces prevail over active forces. But they can only prevail in one way: by ceasing to be acted. 
+
+__reaction ceases to be acted in order to become something felt (senti).__ Reactive forces prevail over active forces because they escape their action. 
+
+
+
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
 
