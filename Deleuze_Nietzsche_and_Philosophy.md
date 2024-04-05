@@ -460,6 +460,8 @@ __There is nothing more false than the idea of "founts" of truth.__
 
 The anecdote is to life what the aphorism is to thought: something to interpret.
 
+# From Ressentiment to the Bad Conscience
+
 p111
 
 In the normal or healthy state the role of reactive forces is always to limit action.  They divide, delay or hinder it by means of another action whose effects we feel
@@ -468,7 +470,17 @@ reaction alone cannot constitute ressentiment. Ressentiment designates a type in
 
 __reaction ceases to be acted in order to become something felt (senti).__ Reactive forces prevail over active forces because they escape their action. 
 
+p112
 
+"We will therefore suppose that an external system of the apparatus receives the perceptible excitations but retains nothing of them, and thus has no memory; and that, lying behind this system there is another which transforms the momentary excitation of the first into lasting traces " These two systems or recordings correspond to the distinction between the __conscious and the unconscious__.
+
+p113
+
+This active super-conscious faculty is the faculty of forgetting. Psychology's mistake was to treat __forgetting__ as a negative determination, not to discover its __active and positive__ character.
+
+p114
+
+We rediscover the definition of ressentiment: ressentiment is a reaction which simultaneously becomes perceptible and ceases to be acted: a formula which defines sickness in general. Nietzsche is not simply saying that ressentiment is a sickness, but rather that __sickness as such is a form of ressentiment__ (EH I 6).
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
