@@ -482,6 +482,18 @@ p114
 
 We rediscover the definition of ressentiment: ressentiment is a reaction which simultaneously becomes perceptible and ceases to be acted: a formula which defines sickness in general. Nietzsche is not simply saying that ressentiment is a sickness, but rather that __sickness as such is a form of ressentiment__ (EH I 6).
 
+p115
+
+Why is ressentiment the spirit of revenge? It might be thought that the man of ressentiment comes into being by accident: having experienced too strong an excitation (a pain), he would have had to abandon the attempt to react, not being strong enough to form a riposte. He would therefore experience a desire for revenge and, by a process of generalisation, would want to take this out on the whole world. Such an interpretation is mistaken
+
+As a result of his type the _man of ressentiment_ does not "react": his reaction is endless, __it is felt instead of being acted.__
+
+p116
+
+The man of ressentiment in himself is a being full of pain: the sclerosis or hardening of his consciousness, the rapidity with which every excitation sets and freezes within him, the weight of the traces that invade him are so many cruel sufferings.
+
+the memory of traces is full of hatred in itself and by itself. It is venomous and depreciative because it blames the object in order to __compensate for its own inability to escape from the traces of the corresponding excitation__. This is why ressentiment's revenge, even when it is realised, remains "spiritual", imaginary and symbolic in principle. 
+
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
 
