@@ -494,6 +494,42 @@ The man of ressentiment in himself is a being full of pain: the sclerosis or har
 
 the memory of traces is full of hatred in itself and by itself. It is venomous and depreciative because it blames the object in order to __compensate for its own inability to escape from the traces of the corresponding excitation__. This is why ressentiment's revenge, even when it is realised, remains "spiritual", imaginary and symbolic in principle. 
 
+We have not understood ressentiment if we only see it as a desire for revenge, a desire to rebel and triumph.
+
+p117
+
+__Ressentiment *is* the triumph of the weak as weak,__ the revolt of the slaves and their victory as slaves. 
+
+The type of the master (the active type) is defined in terms of the faculty of forgetting and the power of acting reactions. The type of slave (the reactive type) is defined by a prodigious memory, by the power of ressentiment; several characteristics which determine this second type follow from this.
+
+_Inability to admire, respect or love_ (BGE 260, GM 110). The __memory of traces is itself full of hatred.__ Hatred or revenge is hidden even in the most tender and most loving memories. The ruminants of memory __disguise this hatred by__ a subtle operation which consists in __reproaching themselves with everything with which__, in fact, __they reproach the being whose memory they pretend to cherish.__
+
+Think of the __Trojans__ who, in Helen, __respected and admired the cause of their own misfortune__. __But the man of ressentiment__ must turn misfortune into something mediocre, he must recriminate and distribute blame: look at his inclination to play down the value of causes, to __make misfortune "someone's fault"__.
+
+p118
+
+The man of ressentiment does not know how to and does not want to love, but wants to be loved.  He wants to be loved, fed, watered, caressed and put to sleep.
+
+Furthermore __the man of ressentiment__ is extremely touchy: faced with all the activities he cannot undertake he considers that, at the very least, he ought to be compensated by benefiting from them. He therefore __considers it a proof of obvious malice that he is not loved__, that he is not fed. The man of ressentiment is the man of profit and gain.
+
+who considers action from the standpoint of good and evil, of praiseworthiness and blameworthiness?
+
+...for example, the incredible notion of disinterestedness, we realise that they conceal the demands and recriminations of a passive third party: it is __he who claims an interest in actions that he does not perform; he praises the disinterested character of precisely the actions from which he benefits.__ ... the triumphant standpoint of a slave who intervenes between masters.
+
+The __imputation of wrongs, the distribution of responsibilities, perpetual accusation__. All this __replaces aggression__. "The aggressive pathos belongs just as necessarily to strength as vengefulness and rancour belong to weakness" (EH I 7 p. 232). 
+
+p119
+
+"It is your fault if no one loves me, it is your fault if I've failed in life and also your fault if you fail in yours, your misfortunes and mine are equally your fault."
+
+Here we rediscover the __dreadful__ feminine __power of ressentiment: it is not content to denounce crimes and criminals, it wants sinners, people who are responsible.__
+<!-- duuuuude... fucking feminine power my ass.... -->
+
+We can guess what __the creature of ressentiment__ wants: he __wants others to be evil__, he needs others to be evil in order to be able to consider himself good. __You are evil, therefore I am good__; this is the slave's fundamental formula
+
+This formula must be compared with that of __the master: I am good, therefore you are evil.__
+
+
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
 
