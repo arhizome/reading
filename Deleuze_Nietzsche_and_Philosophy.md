@@ -529,6 +529,27 @@ We can guess what __the creature of ressentiment__ wants: he __wants others to b
 
 This formula must be compared with that of __the master: I am good, therefore you are evil.__
 
+p120
+
+__In the master everything positive is in the premises.__ He must have premises of action and affirmation, and the enjoyment of these premises in order to conclude with something negative which is not the main point and has scarcely any importance
+
+p121
+
+__the good "only looks for its antithesis in order to affirm itself with more joy"__ (GM I 10). This is the status of __aggression__: it is the negative, but the negative as the conclusion of positive premises, the negative as the product of activity, the negative as the consequence of the power of affirming.
+
+He who called himself good is the one who is now called evil. This __evil one is the one who acts__, who does not hold himself back from acting, who does not therefore consider action from the point of view of the consequences that it will have for third parties. 
+
+And the one who is __good is now the one who holds himself back__ from acting: he is good just because he refers all actions to the standpoint of the one who does not act, to the __standpoint of the one who experiences the consequences__, or better still to the more subtle __standpoint of a divine third party who scrutinises the intentions__ of the one who acts.
+
+"And he is good who does not outrage, who harms nobody, who does not attack, who does not requite, who leaves revenge to God, who keeps himself hidden as we do, who avoids evil and desires little from life, like us, the patient, humble and just" (GM 113 p. 46). 
+
+p122
+
+__Good and evil__ are new values, but how strangely these values are created! They are __created by reversing good and bad__. They are not created by acting but by holding back from acting, not by affirming, but by beginning with denial. This is why they are called un-created, divine, transcendent, superior to life.
+
+But think of what these values hide, of their mode of creation. __They hide an extraordinary hatred__, a hatred __for life__, a hatred for all that is active and affirmative in life. __No moral values would survive for a single instant if they were separated from the premises of which they are the conclusion.__
+
+__Christian love is not the opposite of Judaic ressentiment but its consequence__, its conclusion and its crowning glory (GM I 8). 
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
