@@ -36,8 +36,7 @@ __"In all willing it is absolutely a question of commanding and obeying, on the 
 
 p8
 
-__Life struggles with another kind of life.__ Pluralism sometimes appears to be dialectical - but it is its most ferocious enemy, its
-only profound enemy.
+__Life struggles with another kind of life.__ Pluralism sometimes appears to be dialectical - but it is its most ferocious enemy, its only profound enemy.
 
 In Nietzsche __the essential relation of one force to another is never conceived of as a negative element__ in the essence. In its relation with the other __the force which makes itself obeyed does not deny the other or that which it is not, it affirms its own difference and *enjoys* this difference.__
 
@@ -550,6 +549,12 @@ __Good and evil__ are new values, but how strangely these values are created! Th
 But think of what these values hide, of their mode of creation. __They hide an extraordinary hatred__, a hatred __for life__, a hatred for all that is active and affirmative in life. __No moral values would survive for a single instant if they were separated from the premises of which they are the conclusion.__
 
 __Christian love is not the opposite of Judaic ressentiment but its consequence__, its conclusion and its crowning glory (GM I 8). 
+
+p124
+
+the force thus neutralised is moralised. For, if __it is assumed that a force is able to not manifest the force that it "has"__, it is no more __absurd__ to assume, conversely, that a force could manifest the force that it "has not". As soon as forces are projected into a fictitious subject this subject proves to be blameworthy or deserving - blameworthy if active force performs the activity which is its own, deserving if reactive force does not perform the activity which it . . . does not have. 
+
+
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
