@@ -554,7 +554,18 @@ p124
 
 the force thus neutralised is moralised. For, if __it is assumed that a force is able to not manifest the force that it "has"__, it is no more __absurd__ to assume, conversely, that a force could manifest the force that it "has not". As soon as forces are projected into a fictitious subject this subject proves to be blameworthy or deserving - blameworthy if active force performs the activity which is its own, deserving if reactive force does not perform the activity which it . . . does not have. 
 
+p125
 
+__It presides over the whole evolution of ressentiment__, that is to say, over the operations by which active force is, simultaneously, separated from what it can do (__falsification__), accused and treated as blameworthy (__depreciation__), and the corresponding values are reversed (__negation__). In and through this fiction reactive forces represent themselves as superior. "To be able to reject all that represents the ascending movement of life, well-constitutedness, power, beauty, self-affirmation on earth, the instinct of ressentiment here become genius had to invent another world from which that __life-affirmation would appear evil__, reprehensible as such" (AC 24 p. 135)
+
+
+p126
+
+We know that the __Nazis had ambiguous relations with Nietzsche's work__: ambiguous because they liked to appeal to it but could not do so without __mutilating quotations, falsifying editions and banning important texts.__
+
+p128
+
+"__All instincts that do not discharge themselves outwardly turn inward__ - that is what I call the internalisation of man . . . that is the origin of the 'bad conscience' " (GM II16 pp. 84-5). 
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
