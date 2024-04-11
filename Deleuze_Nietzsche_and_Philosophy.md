@@ -567,6 +567,22 @@ p128
 
 "__All instincts that do not discharge themselves outwardly turn inward__ - that is what I call the internalisation of man . . . that is the origin of the 'bad conscience' " (GM II16 pp. 84-5). 
 
+p131
+
+The Christian-priest brings bad conscience out of its raw animal state, he presides over the internalisation of pain. __The doctor-priest heals pain by infecting the wound. The artist-priest raises bad conscience to its superior form: pain__, the consequence of a sin.
+
+the __priest alters the direction of ressentiment__" (GM III 15 p. 127).
+
+p132
+
+Christianity does sound a new note. It is not content to complete ressentiment, it changes its direction. It imposes the new invention, bad conscience. But, once again, it should not be thought that the new direction of ressentiment in bad conscience is opposed to the first direction. Once again, we are merely concerned with an additional temptation, an additional seduction. __Ressentiment said "it is your fault", bad conscience says "it is my fault". But ressentiment is really only appeased when its contagion is spread.__
+
+__It is not enough for it to accuse, the accused must feel guilty.__ 
+
+everything active in life develops this same feeling of guilt. And these are the only preconditions for the priest's power: __by nature the priest is the one who makes himself master of those who suffer__ (GM III 15).
+
+__the priest always acts through fiction.__
+
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
 
