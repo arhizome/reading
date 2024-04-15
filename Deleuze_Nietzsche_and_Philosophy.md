@@ -581,8 +581,30 @@ __It is not enough for it to accuse, the accused must feel guilty.__
 
 everything active in life develops this same feeling of guilt. And these are the only preconditions for the priest's power: __by nature the priest is the one who makes himself master of those who suffer__ (GM III 15).
 
+p133
+
 __the priest always acts through fiction.__
+
+___Culture means training and selection.__ Nietzsche calls the movement of culture the "__morality of customs__" (D9); this latter is __inseparable from__ iron collars, from __torture__, from the atrocious means which are used to train man.
+
+__Every historical law is arbitrary, but what is not arbitrary, what is prehistoric and generic, is the law of obeying laws.__ (Bergson will rediscover this thesis when he shows, in Les Deux Sources, that all habits are arbitrary but that the habit of taking on habits is natural.)
+
+p134
+
+__Culture has always used__ the following means: it made __pain a medium of exchange, a currency__, an equivalent; precisely the exact equivalent of a forgetting, of an inquiry caused, a promise not kept (GM II4). __Culture, when related to this means, is called justice; the means itself is called punishment.__
+
+p135
+
+Nietzsche sees __the archetype of social organisation in credit rather than exchange__. The man who pays for the injury he causes by his pain, the man held responsible for a debt, the man treated as responsible for his reactive forces: these are the means used by culture to reach its goal. 
+
+Nietzsche therefore offers us the owing genetic lineage: 
+1) Culture as prehistoric or generic activity, an enterprise of training and selection; 
+2) The means used by this activity, the equation of punishment, the relationship of debt, the responsible man; 
+3) The product of this activity: the active man, free and powerful, the man who can promise.
 
 p15 Abbreviations of Nietzsche's Works
 p214 Notes
+
+
+
 
