@@ -602,7 +602,25 @@ Nietzsche therefore offers us the owing genetic lineage:
 2) The means used by this activity, the equation of punishment, the relationship of debt, the responsible man; 
 3) The product of this activity: the active man, free and powerful, the man who can promise.
 
-p15 Abbreviations of Nietzsche's Works
+On the one hand, revenge and ressentiment are not the origin of justice. __Moralists, even socialist ones, make justice derive from a reactive feeling, from deeply felt offence, a spirit of revenge or justiciary reaction.__ But such a derivation explains nothing it would have to show how the pain of others can be a satisfaction of revenge, a reparation for revenge. We will never understand the cruel equation "injury caused = pain undergone" if a third term is not introduced - the __pleasure which is felt in inflicting pain or in contemplating it__. But this third term, the external meaning of pain, has an origin which is completely different from revenge or reaction: it reflects an active standpoint, active force
+
+__Justice is the generic activity that trains man's reactive forces__, that makes them suitable for being acted and holds man responsible for this suitability itself.
+
+p136
+
+ressentiment, far from being at the origin of justice, is "the last sphere to be conquered by the spirit of justice . . . The active, aggressive, arrogant man is still a hundred steps closer to justice than the reactive man.
+<!-- Or maybe justice is just bullshit altogether. -->
+
+Just as ressentiment is not the origin of justice so bad conscience is not the product of punishment. However many meanings punishment can have there is always one meaning which it does not have. __Punishment cannot awaken a feeling of guilt in the culprit.__
+
+<!-- In those who punish as well as those who are punished. -->
+
+"... Generally speaking, __punishment makes men hard and cold; it concentrates; it sharpens the feeling of alienation__; it strengthens the power of resistance. If it happens that punishment destroys the vital energy and brings about a miserable prostration and self-abasement, such a result is certainly even less pleasant than the usual effects of punishment - characterised by dry and gloomy seriousness. ..." (GM II14 pp. 81-82).
+
+society and the morality of customs at last reveal what they have
+
+
+p15 Abbreviations of Nietzsche's Works 
 p214 Notes
 
 
