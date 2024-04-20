@@ -619,6 +619,17 @@ Just as ressentiment is not the origin of justice so bad conscience is not the p
 
 society and the morality of customs at last reveal what they have
 
+p141
+
+__The association of reactive forces is thus accompanied by a transformation of debt; this becomes a debt toward "divinity", toward "society", toward "the State"__, toward reactive instances. Everything then takes place between reactive forces. __Debt__ loses the active character by virtue of which it took part in man's liberation: __in its new form__ it __is inexhaustible, unpayable.__ 
+
+Examine what Christianity calls __"redemption"__. It is no longer a matter of discharge from debt, but of a deepening of debt. It is __no longer a matter of a suffering through which debt is paid, but of a suffering through which one is shackled to it__, through which one becomes a __debtor forever__. Suffering now only pays the interest on the debt; suffering is internalised, responsibility-debt has become responsibility-guilt. 
+
+p142
+
+But __the priest does not only corrupt the herd, he organises it, he protects it. He invents the means which enable us to endure multiplied, internalised pain. He makes it possible to live with the culpabuity which he introduces.__ He makes us participate in an apparent activity, in an apparent injustice, the service of God; he involves us in association, he awakens in us "the desire to see the community prosper" (GM III 18-19). 
+
+"It is my fault", this is the cry of love by means of which we, the new sirens, attract others to us and divert them from their path. __By changing the direction of ressentiment the men of bad conscience have found the best means to satisfy revenge__, to spread the contagion: "how ready they themselves are at bottom to make one pay; how they crave to be hangmen . . ."
 
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
