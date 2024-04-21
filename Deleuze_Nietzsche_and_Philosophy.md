@@ -631,6 +631,15 @@ But __the priest does not only corrupt the herd, he organises it, he protects it
 
 "It is my fault", this is the cry of love by means of which we, the new sirens, attract others to us and divert them from their path. __By changing the direction of ressentiment the men of bad conscience have found the best means to satisfy revenge__, to spread the contagion: "how ready they themselves are at bottom to make one pay; how they crave to be hangmen . . ."
 
+p143
+
+Every selection implies a religion.
+
+Ressentiment and bad conscience - these are the higher degrees of religion as such. __The inventor of Christianity is not Christ but St Paul, the man of bad conscience, the man of ressentiment.__ 
+
+p145
+the will to nothingness needs reactive forces: it is not just that it only tolerates life in reactive form, but it needs the reactive life as a means by which __life must contradict itself, deny itself, annihilate itself__
+
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
 
