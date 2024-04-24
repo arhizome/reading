@@ -640,6 +640,19 @@ Ressentiment and bad conscience - these are the higher degrees of religion as su
 p145
 the will to nothingness needs reactive forces: it is not just that it only tolerates life in reactive form, but it needs the reactive life as a means by which __life must contradict itself, deny itself, annihilate itself__
 
+p162
+
+The idea of another world, of a supersensible world in all its forms (God, essence, the good, truth), __the idea of values superior to life, is__ not one example among many but __the constitutive element of all fiction.__ Values superior to life are inseparable from their effect: the depreciation of life, the negation of this world.
+
+Nihil in "nihilism" means negation as quality of the will to power. 
+
+__Nihilism has a second, more colloquial sense__. It no longer signifies a will but rather a reaction. The supersensible world and higher values are reacted against, their existence is denied, they are refused all validity - this is no longer the devaluation of life in the name of higher values but rather the devaluation of higher values themselves.
+
+p148
+
+Previously essence was opposed to appearance, life was turned into an appearance. Now essence is denied but appearance is retained: everything is merely appearance, life which is left to us remains for itself an appearance.
+
+
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
 
