@@ -652,6 +652,28 @@ p148
 
 Previously essence was opposed to appearance, life was turned into an appearance. Now essence is denied but appearance is retained: everything is merely appearance, life which is left to us remains for itself an appearance.
 
+In its enterprise of denying life __the will to nothingness on the one hand merely tolerates the reactive life but on the other hand has need of it. It tolerates the reactive life as a state of life close to zero__, it has need of it as a means by which life is led to deny and contradict itself. In this way victorious reactive forces have a witness, or worse, a leader. But what happens is that __the triumphant reactive forces are less and less tolerant of this leader and witness.__ They want to triumph alone, they no longer want to owe their triumph to anyone else.
+
+p149
+
+It is better to have no "will" at all than this over-powerful, over-lively will. It is better to have stagnant herds than the shepherd who persists in leading us too far.
+
+What is pity? It is this tolerance for states of life close to zero. Pity is the love of life, but of the weak, sick, reactive life. It is militant and announces the final victory of the poor, the suffering, the powerless and the small
+<!-- Weird take lol -->
+
+p150
+
+Pity is practical nihilism. . . pity persuades to nothingness. . .One does not say 'nothingness": one says 'the Beyond'; or 'God'; or 'true life'; or Nirvana, redemption, blessednes" (AC 7 pp. 118-119).
+
+<!-- wtf. Maybe we understand pity very, very differently. -->
+
+Pity for the reactive life in the name of higher values, God's pity for the reactive man
+
+p151
+
+Values can change, be renewed or even disappear. What does not change and does not disappear is the nihilistic perspective which governs this history from beginning to end and from which all these values (as well as their absence) arise. This is why Nietzsche can think that __nihilism is not an event in history but the motor of the history__ of man as universal history. Negative, reactive and passive nihilism: for Nietzsche one and the same history is marked out by Judaism, Christianity, the reformation, free thought, democratic and socialist ideology etc. Up until the last man.
+
+<!-- yeah, hm, all is badly bad always, everywhere, all the time, ok -->
 
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
