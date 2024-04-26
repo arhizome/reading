@@ -675,6 +675,24 @@ Values can change, be renewed or even disappear. What does not change and does n
 
 <!-- yeah, hm, all is badly bad always, everywhere, all the time, ok -->
 
+p152
+
+__the universal appears as a hatred for life, the particular as a love of life__ - provided that it is sick and reactive.
+
+p153
+
+The Judaic consciousness puts God to death in the person of the Son: it invents a __God of love who would prefer to suffer from hate__ rather than find his premises and principle there.
+
+In putting God to death it has found the way of making its God a God who is universal "for all" and truly cosmopolitan.
+
+__God put his son on the cross out of love; we respond to this love__ to the extent that __we feel guilty__, guilty of this death, and we redress it by accusing ourselves, by paying interest on the debt. Through the love of God, through the sacrifice of his son, the whole of life becomes reactive.
+
+p154
+
+__love became the principle, undying hatred appears merely as a consequence of this love, the means to be used against anyone who resists this love. Warrior-Jesus, hateful-Jesus - but for the sake of love.__
+
+The reactive life instead of the divine will, the reactive Man instead of God, the Man-God replacing the God-Man - the European Man.
+
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
 
