@@ -693,6 +693,22 @@ __love became the principle, undying hatred appears merely as a consequence of t
 
 The reactive life instead of the divine will, the reactive Man instead of God, the Man-God replacing the God-Man - the European Man.
 
+p157
+
+__The dialectic does not even skim the surface of interpretation,__ it never goes beyond the domain of symptoms. __It confuses interpretation with the development of the uninterpreted symbol.__ This is why, in questions of change and development, __it conceives of nothing deeper than an abstract permutation where the subject becomes predicate and the predicate, subject.__ But the one that is __subject and__ what the __predicate__ is __have not changed, they remain as little determined at the end as they were at the beginning, as little interpreted as possible__: everything has happened in the intermediate regions. 
+
+It is not surprising that the dialectic proceeds by opposition, development of the opposition or contradiction and solution of the contradiction. It is unaware of the real element from which forces, their qualities and their relations derive; it only knows the inverted image of this element which is reflected in abstractly considered symptoms. 
+
+Opposition can be the law of the relation between abstract products, but difference is the only principle of genesis or production; a principle which itself produces opposition as mere appearance. __Dialectic thrives on oppositions because it is unaware of far more subtle and subterranean differential mechanisms: topological displacements, typological variations.__
+
+...
+
+__Deprived of all its ambitions, opposition ceases to be formative__, impelling and co-ordinating: it becomes a symptom, nothing but a symptom to be interpreted. __Deprived of its claim to give an account of difference, contradiction appears for what it is: a perpetual misinterpretation of difference itself__, a confused inversion of genealogy.
+
+p159
+
+It is reactive forces that express themselves in opposition, the will to nothingness that expresses itself in the labour of the negative. __The dialectic is the natural ideology of ressentiment and bad conscience.__
+
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
 
