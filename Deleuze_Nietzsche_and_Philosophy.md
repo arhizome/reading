@@ -709,6 +709,25 @@ p159
 
 It is reactive forces that express themselves in opposition, the will to nothingness that expresses itself in the labour of the negative. __The dialectic is the natural ideology of ressentiment and bad conscience.__
 
+With 'what' the concept was sought for in order to realise it; with 'who' it is no longer any question at all, but the answer is personally on hand at once in the asker."
+(M. Stirner, The Ego and His Own)
+
+p160
+
+Man and God have been exchanged; but the labour of the negative, once released, is here to tell us: __it is still not You__. "I am neither God nor Man, neither the supreme essence nor my essence, and therefore it is all one in the main whether I think of the essence as in me or outside me" (Stirner p. 33)
+
+Stirner has no difficulty in showing that idea, consciousness or species are no less alienations than traditional theology. Relative reappropriations are still absolute alienations. Competing with theology, anthropology makes me the property of Man. But the dialectic cannot be halted until I finally become a proprietor. Even if it means ending up in nothingness
+
+p161
+
+"it is not that the ego is all, but the ego destroys all" (Stirner p. 182).
+
+"I am owner of my might, and I am so when I know myself as unique. In the unique one the owner himself returns into his creative nothing, of which he is born. __Every higher essence above me, be it God, be it man, weakens the feeling of my uniqueness__ and pales only before the sun of this consciousness."  (Stirner p. 366).
+<!-- Why do you even want to be unique, dude, what's this weird obsession. It's fine if we're not unique. I couldn't care less, honestly. -->
+
+
+
+
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
 
