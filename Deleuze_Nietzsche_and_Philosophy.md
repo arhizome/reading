@@ -725,8 +725,23 @@ p161
 "I am owner of my might, and I am so when I know myself as unique. In the unique one the owner himself returns into his creative nothing, of which he is born. __Every higher essence above me, be it God, be it man, weakens the feeling of my uniqueness__ and pales only before the sun of this consciousness."  (Stirner p. 366).
 <!-- Why do you even want to be unique, dude, what's this weird obsession. It's fine if we're not unique. I couldn't care less, honestly. -->
 
+p163
 
+__The dialectical man is the most wretched__ because he is no longer anything but a man, having annihilated everything which was not himself. __He is also the best man__ because he has suppressed alienation, replaced God and recuperated his properties. We should not think of __Nietzsche's overman__ as simply a raising of the stakes: he __differs in nature from man, from the ego__. The overman is defined by a new way of feeling: he is a different subject from man, something other than the human type.
 
+__A new way of thinking, predicates other than divine ones; for the divine is still a way of preserving man__ and of preserving the essential characteristic of God, God as attribute. A new way of evaluating: not a change of values, not an abstract transposition nor a dialectical reversal, but a change and reversal in the element from which the value of values derives, a "transvaluation".
+
+p164
+
+The prophet is the prophet of great weariness, representative of passive nihilism, prophet of the last man. He is looking for a sea to drink, a sea in which to drown himself; but every death seems to him still too active, we are too tired to die. He wills death but as a passive extinction (ZII "The Prophet", IV "The Cry of Distress").
+<!-- Lol, this me xD -->
+
+p165
+
+__The man with leeches resents the product of culture as science__. He is the "conscientious of the spirit". He wanted certainty and to appropriate science and culture. __"Better to know nothing than to half-know many things"__ (IV "The Leech" p. 263)
+
+p166
+The shadow is the wanderer himself, species activity itself, culture and its movement. The meaning of the wanderer and of his shadow is that only the shadow wanders. 
 
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
