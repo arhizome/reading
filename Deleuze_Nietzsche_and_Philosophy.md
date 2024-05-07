@@ -743,6 +743,15 @@ __The man with leeches resents the product of culture as science__. He is the "c
 p166
 The shadow is the wanderer himself, species activity itself, culture and its movement. The meaning of the wanderer and of his shadow is that only the shadow wanders. 
 
+p170
+__The higher man__ remains within the abstract element of activity, he never raises himself, even in thought, to the element of affirmation. The higher man claims to reverse values, to convert reaction into action. Zarathustra speaks of something else: transmuting values, converting negation into affirmation. But reaction will never become action without this deeper conversion: negation must first become a power of affirming.
+
+Instead of training forces and making them active they organise associations of reactive forces (ZIV "The Greeting": Zarathustra says to the higher men: "__And there is hidden mob in you too__"). 
+
+The element of affirmation is the superhuman element. The element of affirmation is what man lacks - even and above all the higher man. 
+
+There are things that the higher man does not know how to do: to laugh, to play and to dance. To laugh is to affirm life, even the suffering in life. To play is to affirm chance and the necessity of chance. To dance is to affirm becoming and the being of becoming.
+
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
 
