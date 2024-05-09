@@ -752,6 +752,32 @@ The element of affirmation is the superhuman element. The element of affirmation
 
 There are things that the higher man does not know how to do: to laugh, to play and to dance. To laugh is to affirm life, even the suffering in life. To play is to affirm chance and the necessity of chance. To dance is to affirm becoming and the being of becoming.
 
+p171
+
+We know what transmutation or transvaluation means for Nietzsche: not a change of values, but a change in the element from which the value of values derives.
+
+The question is: how can nihilism be defeated? How can the element of values itself be changed, how can affirmation be substituted for negation?
+
+p172
+
+In fact nihilism is defeated, but defeated by itself.
+
+The values which depend on this old element of the negative, the values which fall under a radical critique, are all the values known or knowable up to the present. "Up to the present" means up to the time of transmutation. 
+But __what does "all knowable values" mean?__ 
+Nihilism is negation as a quality of the will to power. Nevertheless, this definition remains insufficient if we do not take the role and function of nihilism into account: the will to power appears in man and makes itself known in him as a will to nothingness. 
+And, in point of fact, our knowledge of the will to power will remain limited if we do not grasp its manifestation in ressentiment, bad conscience, the ascetic ideal and the nihilism which forces us to know it. The will to power is spirit, but what would we know of spirit without the spirit of revenge which reveals strange powers to us? __The will to power is body, but what would we know of the body without the sickness which makes it known to us? Thus nihilism, the will to nothingness, is not only a will to power, a quality of the will to power, but the ratio cognoscendi of the will to power in general.__
+
+
+p173
+
+__The other side of will to power, the unknown side__, the other quality of the will to wer, the unknown quality, __is affirmation__. __And affirmation, in turn, is__ not merely a will to power, a quality of the will to power, it is __the ratio essendi__ of the will to power in general.
+
+*_Ratio essendi_ - the essence or "formal reason" of a thing, the definition of it or its essential attributes as they are conceived by us, that is they are abstracted from particular conditions. This scholastic term can be translated as raison d'etre.
+
+It is the ratio essendi of the will to power as a whole and therefore the ratio which expels the negative from this will, just as negation was the ratio cognoscendi of the whole will to power (thus the ratio __which does not fail to eliminate the affirmative from the knowledge of this will__). _New values derive from affirmation: values which were unknown up to the present_, that is to say __up to the moment when the legislator takes the place of the "scholar", creation takes the place of knowledge itself and affirmation takes the place of all negations.__
+
+
+
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
 
