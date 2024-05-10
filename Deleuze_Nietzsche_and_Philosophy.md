@@ -776,7 +776,42 @@ __The other side of will to power, the unknown side__, the other quality of the 
 
 It is the ratio essendi of the will to power as a whole and therefore the ratio which expels the negative from this will, just as negation was the ratio cognoscendi of the whole will to power (thus the ratio __which does not fail to eliminate the affirmative from the knowledge of this will__). _New values derive from affirmation: values which were unknown up to the present_, that is to say __up to the moment when the legislator takes the place of the "scholar", creation takes the place of knowledge itself and affirmation takes the place of all negations.__
 
+p175
 
+Transmutation or transvaluation means:
+
+1) Change of quality in the will to power. 
+   
+   The element of values changes place and nature, the value of values changes its principle and the whole of evaluation changes character.
+
+2) The transition from the ratio cognoscendi to the ratio essendi in the will to power.
+
+p176
+
+3) Conversion of the element in the will to power.
+4) Reign of affirmation in the will to power.
+5) Critique of known values.
+6) Reversal of the relation of forces.
+
+Affirmation constitutes becoming-active as the universal becoming of forces. Reactive forces are denied, all forces become active.
+
+In the first place, __negation and affirmation__ are opposed as two qualities of the will to power, two ratios of the will to power. They __are both opposites, but also wholes which exclude their opposite.__ 
+
+p177
+
+Destruction as the active destruction of all known values is the trail of the creator: __"Look at the good and the just! What do they hate the most? The one who breaks their tables of values, the destroyer, the criminal: but it is he, the creator."__
+
+p178
+
+It might be thought that __the ass, the animal which says "Ye-a", was the Dionysian animal par excellence. In fact, this is not the case__; its appearance is Dionysian but its reality is wholly Christian. It is only fit to be used as a God by the higher men: it does represent affirma- tion as the element which goes beyond the higher man but it disfig- ures it in their image and for their needs. __It always says yes, but does not know how to say no.__
+
+The shrewd word is yes, but it is preceded and followed by an echo which is no. The ass' yes is a false yes: a yes which is not able to say no
+
+p179
+
+__The whole of the negative has become a power of affirming__, it is now only the mode of being of affirmation as such. This is why Nietzsche is so insistent on the __distinction between ressentiment__ (power of denying which is expressed by reactive forces) __and aggression__ (the active way of being of a power of affirming - EH 16 and 7)
+
+It is __only under the sway of affirmation that the negative is raised to its higher degree__ at the same time as it defeats itself: it is no longer a power and a quality but the mode of being of the one who is powerful. __Then, and only then, the negative is aggression, negation becomes active, joyful destruction__ (EH III "The Birth of Tragedy", "Thus Spoke Zarathustra").
 
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
