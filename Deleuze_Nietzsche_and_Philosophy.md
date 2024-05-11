@@ -813,8 +813,44 @@ __The whole of the negative has become a power of affirming__, it is now only th
 
 It is __only under the sway of affirmation that the negative is raised to its higher degree__ at the same time as it defeats itself: it is no longer a power and a quality but the mode of being of the one who is powerful. __Then, and only then, the negative is aggression, negation becomes active, joyful destruction__ (EH III "The Birth of Tragedy", "Thus Spoke Zarathustra").
 
+p181
+
+The ass and the camel do not only have the strength to rry the heaviest burdens, they have a back for estimating and valuating their weight. __These burdens seem to them to have the weight of the real.__ The real as such - this is how the ass experiences its load. 
+This is why Nietzsche presents the ass and the camel as impervious to all forms of seduction and temptation: __they are only sensitive to what they have on their backs, to what they call real__. Thus we can guess the meaning of the ass' affirmation, of __the yes which does not know how to say no: this kind of affirming is nothing but bearing__, taking upon oneself, acquiescing in the real as it is, __taking reality as it is upon oneself.__
+
+__The idea of the real in itself is an ass' idea__. The ass feels the weight of burdens that it has been loaded with, that it has taken up, as the positivity of the real.
+
+But __the ass only ever grasps consequences separated from their premisses__, products separated from the principle of their production and forces separated from the spirit which animates them. __Its burdens therefore seem to it to have the positivity of the real__, like the strength with which it is endowed, positive qualities which correspond to an acceptance of life and the real.
+
+p183
+
+But the real in itself in Feuerbach preserves all the attributes of nihilism as the predicate of the divine; the real being of man preserves all the reactive properties as the strength and taste for accepting this divine
+
+## Summary
+
+Nietzsche wants to say three things:
+1) __Being, the true and the real are the avatars of nihilism.__ Ways of mutilating life, of denying it, of making it reactive by submitting it to the labour of the negative, by loading it with the heaviest burdens. Nietzsche has no more belief in the self-sufficiency of the real than he has in that of the true: he thinks of them as the manifestations of a will, a will to depreciate life, to oppose life to life.
+2) __Affirmation conceived of as acceptance, as affirmation of that which is, as truthfulness of the true or positivity of the real, is a false affirmation.__ It is the yes of the ass. The ass does not know how to say no because he says yes to everything which is no. The ass or the camel is the opposite of the lion; in the lion negation becomes a power of affirming, but in them affirmation remains at the service of the negative, a simple power of denying.
+3) __This false conception of affirmation is still a way of preserving man.__ As long as being is a burden the reactive man is there to carry it.
+
+p184
+__*The world is neither true nor real but living*__. And the living world is will to power, __will to falsehood__, which is actualised in many different powers.
+
+__To actualise the will to falsehood__ under any power whatever, to actualise the will to power under any quality whatever, __is always to evaluate__. To live is to evaluate. __There is no truth of the world as it is thought, no reality of the sensible world, all is evaluation, even and above all the sensible and the real.__
+
+"The will to appearance, to illusion, to deception, to becoming and change (to objectified deception) here counts as more profound, primeval, 'metaphysical', than the will to truth, to reality, to mere appearance: - the last is itself merely a form of the will to illusion" (VP IV 8/WP 853 III p. 453 - "here" refers to BT). 
+
+p185 
+
+The sense of affirmation can only emerge if these three fundamental points in Nietzsche's philosophy are borne in mind: not the true nor the real but evaluation; not affirmation as acceptance but as creation; not man but the Overman as a new form of life.
+
+__Nietzsche's argument can be summarised as follows__: the yes which does not know how to say no (the yes of the ass) is a caricature of affirmation. This is precisely because it says yes to everything which is no, because it puts up with nihilism it continues to serve the power of denying
+
+The Dionysian yes, on the contrary, knows how to say no: it is pure affirmation, it has conquered nihilism and divested negation of all autonomous power. But it has done this because it has placed the negative at the service of the powers of affirming. __*To affirm is to create, not to bear, put up with or accept.*__ 
+
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
+
 
 
 
