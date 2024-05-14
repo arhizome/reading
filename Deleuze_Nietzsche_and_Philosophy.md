@@ -833,7 +833,10 @@ Nietzsche wants to say three things:
 2) __Affirmation conceived of as acceptance, as affirmation of that which is, as truthfulness of the true or positivity of the real, is a false affirmation.__ It is the yes of the ass. The ass does not know how to say no because he says yes to everything which is no. The ass or the camel is the opposite of the lion; in the lion negation becomes a power of affirming, but in them affirmation remains at the service of the negative, a simple power of denying.
 3) __This false conception of affirmation is still a way of preserving man.__ As long as being is a burden the reactive man is there to carry it.
 
+## The world is neither true nor real but living
+
 p184
+
 __*The world is neither true nor real but living*__. And the living world is will to power, __will to falsehood__, which is actualised in many different powers.
 
 __To actualise the will to falsehood__ under any power whatever, to actualise the will to power under any quality whatever, __is always to evaluate__. To live is to evaluate. __There is no truth of the world as it is thought, no reality of the sensible world, all is evaluation, even and above all the sensible and the real.__
@@ -847,6 +850,50 @@ The sense of affirmation can only emerge if these three fundamental points in Ni
 __Nietzsche's argument can be summarised as follows__: the yes which does not know how to say no (the yes of the ass) is a caricature of affirmation. This is precisely because it says yes to everything which is no, because it puts up with nihilism it continues to serve the power of denying
 
 The Dionysian yes, on the contrary, knows how to say no: it is pure affirmation, it has conquered nihilism and divested negation of all autonomous power. But it has done this because it has placed the negative at the service of the powers of affirming. __*To affirm is to create, not to bear, put up with or accept.*__ 
+
+## Affirmation itself is being
+
+p186
+
+Affirmation is not the power of being, on the contrary. __Affirmation itself is being__, being is solely affirmation in all its power.
+
+_Being and nothingness are merely the abstract expression of affirmation and negation as qualities (qualia) of the will to power._
+
+Affirmation has no object other than itself. To be precise it is being insofar as it is its own object to itself. __Affirmation as object of affirmation - this is being. In itself and as primary affirmation, it is becoming.__ But it is being insofar as it is the object of another affirmation which raises becoming to being or which extracts the being of becoming.
+
+p187
+
+If we understand affirmation and negation as qualities of the will to power we see that they do not have a univocal relation. __Negation is opposed to affirmation but affirmation differs from negation. We cannot think of affirmation as "being opposed" to negation: this would be to place the negative within it.__ Opposition is not only the relation of negation with affirmation but the essence of the negative as such. Affirmation is the enjoyment and play of its own difference, just as negation is the suffering and labour of the opposition that belongs to it. 
+
+p190
+
+Nietzsche's speculative teaching is as follows: becoming, multiplicity and chance do not contain any negation; __difference is pure affirmation__; return is the being of difference excluding the whole of the negative.
+
+Nietzsche exposes all the mystifications which disfigure philosophy: __the apparatus of bad conscience__, the false marvels of the negative which __turn multiplicity, becoming, chance and difference itself into so many misfortunes of consciousness__ itself and turn misfortunes of consciousness into so many moments of formation, reflection or development. 
+
+Nietzsche's practical teaching is that __difference is happy__; that multiplicity, becoming and chance are adequate objects of joy by themselves and that only joy returns.
+
+__The negative expires at the gates of being. Opposition ceases its labour and difference begins its play.__
+
+p191
+
+Instead of the labour of opposition or the suffering of the negative we have the warlike play of difference, affirmation and the joy of destruction. 
+
+p194
+
+__play and dance are affirmative powers of transmutation__: dance transmutes heavy into light, __laughter transmutes suffering into joy__ and the play of throwing (the dice) transmutes low into high. 
+
+__laughter and play are affirmative powers of reflection and development.__ Dance affirms becoming and the being of becoming; laughter, roars of laughter, affirm multiplicity and the unity of multiplicity; play affirms chance and the necessity of chance.
+
+p197
+
+The sense of Nietzsche's philosophy is that multiplicity, becoming
+and chance are objects of pure affirmation. ... __The player only loses because he does not affirm strongly enough__, because he introduces the negative into chance and opposition into becoming and multiplicity. The true dicethrow neces- sarily produces the winning number, which re-produces the dicethrow. 
+
+p198
+
+__eternal return is being but being is selection.__ Affirmation remains as the sole quality of the will to power, action as the sole quality of force, becoming-active as the creative identity of power and willing.
+
 
 p15 Abbreviations of Nietzsche's Works 
 p214 Notes
