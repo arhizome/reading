@@ -50,3 +50,25 @@ __These postulates culminate in the position of an identical thinking subject, w
 p352
 
 __To restore difference in thought is to untie this first knot which consists of *representing difference through the identity* of the concept and the thinking subject.__
+
+The second illusion concerns the __subordination of difference to resemblance__. ... The illusion takes the following form: difference necessarily tends to be cancelled in the quality which covers it, while at the same time inequality tends to be equalised within the extension in which it is distributed.
+
+To restore difference within intensity as the being of the sensible is to untie the second knot, one which __subordinates difference to the similar within perception__, allowing it to be experienced only on condition that there is an assimilation of diversity taken as raw material for the identical concept.
+<!-- Mmmm, i dunno if i can agree that difference is subordinated to the similar within perception. Quite the opposite, actually. You always notices the difference first, don't you? Or maybe not... Difference is seen as something "bad", whereas "similarity" is generally something "good". Though I can immediately bring a counter example to this. Like individuality is something good, and being "mediocre" is something bad.  -->
+
+p353
+
+The third illusion concerns the negative and the manner in which it subordinates difference to itself, in the form of both limitation and opposition.
+
+p355
+
+History progresses not by negation and the negation of negation, but by deciding problems and affirming differences.
+
+To restore the differential in the Idea, and difference to the affirmation which flows from it, is to break this unholy bond which subordinates difference to the negative.
+
+p356
+
+Finally, the fourth illusion concerns the subordination of difference to the
+analogy of judgement.
+
+difference is assigned two limits, in the form of two irreducible but complementary figures which indicate precisely its belonging to representation (the Large and the Small): the categories as a priori concepts and the empirical concepts; the originary determinable concepts and the derived determined concepts; the analogous and the opposed; the large genera and the species. This distribution of difference in a manner entirely dependent upon the requirements of representation essentially belongs within the analogical vision of the world. ... In terms of this distribution, __the individual is only, and only' understood as, that which bears differences in general, while Being distributes itself among the fixed forms of these differences__ and is said analogically of that which is.
