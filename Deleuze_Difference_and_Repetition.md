@@ -1,3 +1,9 @@
+# Preface
+
+p14
+
+In simulacra, repetition already plays upon repetitions, and difference already plays upon differences. __Repetitions repeat themselves, while the differenciator differenciates itself. The task of life is to make all these repetitions coexist in a space in which difference is distributed.__
+
 
 # Conclusion
 
@@ -42,6 +48,7 @@ This is the originality of sufficient reason: better to ensure the subjection of
 p351
 
 __What is condemned in the figure of simulacra is the state of free, oceanic differences__, of nomadic distributions and crowned anarchy, along with all that malice which challenges both the notion of the model and that of the copy.
+<!-- Yay, no Baudrillard whining! -->
 
 __Representation is a site of transcendental illusion.__ This illusion comes in several forms, four interrelated forms __which correspond particularly to thought, sensibility, the Idea and being.__
 
@@ -64,11 +71,10 @@ p355
 
 History progresses not by negation and the negation of negation, but by deciding problems and affirming differences.
 
-To restore the differential in the Idea, and difference to the affirmation which flows from it, is to break this unholy bond which subordinates difference to the negative.
+To restore the differential in the Idea, and difference to the affirmation which flows from it, is to break this unholy bond which __subordinates difference to the negative__.
 
 p356
 
-Finally, the fourth illusion concerns the subordination of difference to the
-analogy of judgement.
+Finally, the __fourth illusion concerns the subordination of difference to the analogy of judgement__.
 
 difference is assigned two limits, in the form of two irreducible but complementary figures which indicate precisely its belonging to representation (the Large and the Small): the categories as a priori concepts and the empirical concepts; the originary determinable concepts and the derived determined concepts; the analogous and the opposed; the large genera and the species. This distribution of difference in a manner entirely dependent upon the requirements of representation essentially belongs within the analogical vision of the world. ... In terms of this distribution, __the individual is only, and only' understood as, that which bears differences in general, while Being distributes itself among the fixed forms of these differences__ and is said analogically of that which is.
