@@ -61,3 +61,49 @@ According to __Simondon__, a thing (any thing, from a crystal to a single person
 p38
 
 if __any individual is both its own technology and its own product__, perhaps our real mistake lies in the very notion of technology as an autonomous field.
+
+p39
+
+If until that point the architectural project of a building functioned as __a complete narrative, readable but not reducible to its syntactic elements__, __then__ with the triumph of modular architecture the very essence of a building was __reduced to an assemblage of grammatical positions.__ This __shift of perspective saw the transformation__ of the relationship between human and building, __from one based on meaning, to one based on a grammar of functionality__. 
+<!-- Oh, that's what storytelling is going through too, huh. Relationship between human and text. 
+And, ffs, I'm _not_ going for a thing bad take. Reduction is a valuable tool of analysis. In fact, you can't do any analysis at all if you don't do at least a little reduction, a little idealization. What's important is to remember that this is only a framework—one of many possible. -->
+
+Perhaps unwittingly, the proponents of modular architecture had translated on the metaphorical level of construction, __the same cosmological transformation that Technic, as the form of the age, was enforcing on the whole of reality__.
+<!-- That's a problem right here. Though, again, even trying to analyze the whole of reality through Technic not bad per se, I'd say. But believing that this is the true truth one and only. -->
+
+p40
+
+__ontology of positions rather than of things__.  This ontological paradigm is the same that is at work within the regime of Technic.
+
+Like every form, that imposed by Technic is determined by the structure of its inner geometry. ... this geometry is composed by two fundamental and seemingly contradictory elements: the notions of measure and infinity.
+
+Technic’s rewriting of reality can be summed up, at least superficially, to its __positing instrumentality as the only legitimate ontological stance__
+<!-- The following elaboration is about production (capitalism), but this works for purpose too, doesn't it? The notion of being creating with a purpose is exactly that: ontological reduction to instrumentality. -->
+
+Yet, the concept of instrumentality isn’t completely self-sufficient; in order to stand, it needs to rely on other, more fundamental concepts. 
+<!-- Uhm, no? -->
+At the heart of instrumentality, and necessarily implied by it, we find the notion of causality.
+
+p41
+
+there can be such a thing as an instrument, only if that instrument is capable of producing something else as the direct effect of its activity.
+<!-- Uhm, what _can't_ produce something else through activity? A stone is an instrument, one of the oldest. Rain can be seen as an instrument: irrigation produces crops. -->
+
+there could be no instruments, if we didn’t already have a more general concept of cause–effect relationships.
+<!-- Ahhhh, okay, got it. Agree. -->
+
+Yet, the concept of causality is not as plain and unproblematic as it might appear at first. 
+<!-- Hehe, oh yeah :D -->
+
+As theorized by David Hume, the idea that something can be the cause of something else is not a matter of fact, which we can easily find in our immediate experience of the world. Conversely, argues Hume, what we witness is simply the sequential order in which the activity of what we call the cause precedes the activity of what we call the effect: a flame touches a piece of paper, and then the paper takes fire. __The force of causality is not a natural force, but merely something that we project over the succession of events in nature.__ 
+<!-- YES. So Hume was first to write about that. -->
+
+__Causality is an arbitrary notion, yet we seem to be unable to do without it.__ Indeed, causality reveals more how we understand the existent, or how the existent unveils itself to us, than anything about how the existent is structured in itself.
+
+p42
+
+However, our experience of the world is filtered not only by our ‘naturally’ inbuilt categories, but also by the specific reality-system that is hegemonic during each historical age, and through which the world emerges to us as one particular world.
+
+p44
+
+As the foundation of Technic’s language, and thus of its system of serial production, the notion of measure consists in the original act of ‘cutting up’ the world, in a manner that makes it available to be infinitely recombined. Or, more precisely, __measure is the act of creating the world as a catalogue of cuts__ – while before measure’s ‘cutting’ no such thing as a world, or indeed anything at all, actually existed. The process of measuring, that is of ‘creating-by- cutting’, is infinitely replicable – in the same way that serial production in Technic’s world can expand ad infinitum. 
