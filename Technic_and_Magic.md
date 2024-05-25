@@ -107,3 +107,41 @@ However, our experience of the world is filtered not only by our ‘naturally’
 p44
 
 As the foundation of Technic’s language, and thus of its system of serial production, the notion of measure consists in the original act of ‘cutting up’ the world, in a manner that makes it available to be infinitely recombined. Or, more precisely, __measure is the act of creating the world as a catalogue of cuts__ – while before measure’s ‘cutting’ no such thing as a world, or indeed anything at all, actually existed. The process of measuring, that is of ‘creating-by- cutting’, is infinitely replicable – in the same way that serial production in Technic’s world can expand ad infinitum. 
+
+p48
+
+__death__ implies something ceasing to exist as that specific, individual, living thing. __Extinction__ befalls an abstract category, typically an animal or plant species. ... Death applies to unique ‘things’; extinction to positions in a series of linguistic classifications. _While from the perspective of a struggle against death, only the actual living existence of a specific individual can be considered a success, within the logic of a struggle against extinction, what counts is the preservation of the possibility to activate a certain position._
+
+p49
+
+__the phobic hegemony of extinction reflects the silent consensus over a reality-system that sees serial positions such as species, as more ‘real’, and thus worthier of protection, than individual living things.__
+
+Potential presence takes the place of actual existence.
+
+p50
+
+[Technic is] translating the world of things (trees, waterfalls, humans), into a world of positions, immediately understandable as standing-reserves within the industrial series of production (timber, hydroelectric units, labour).
+
+Jünger correctly pointed out that __the bourgeois idea of the individual was soon to capitulate to the ‘type of the worker’__
+
+In order to subjugate the world of things to its own cosmos of positions, Industrial Technic proceeded by turning things into their linguistic equivalents within its own series-systems. __Things__ weren’t just generally __reduced to their name__; specifically, they were translated into their technical names. 
+
+p51
+
+Once an exclusive principle takes over the whole, and denies the legitimacy of anything outside its own architecture, then reality is in peril.
+
+p52
+
+at the basis of the contemporary obsessions with so-called ‘Big Data’ lies the double ontological assumption that: (1) the language of information technology is capable of grasping the whole of the existent; (2) more extremely, the whole of the existent coincides with the reach of the language of information technology.
+
+<!-- Yeah, hmm, not sure about that, fam. There are hard-core positivists in the field, probably, but like a model is a model is a model. Scientists usually know that they're using a model. And the ideas of social constructivism are quite prominent, at least in leftist circles. -->
+
+The record-shattering investments in Big-Data systems and technology rest on the belief that there can’t possibly be anything ontologically relevant that couldn’t, at least potentially, be reduced (and reduced truthfully) to the serial units of the language of data.
+<!-- Or maybe they just use this new tool, which is Big-Data, because it already yielded somewhat satisfactory results. Like numerical solution of equations is pretty similar. So it makes sense to extrapolate and try using this tool on other stuff.
+No doubt some people believe they're extracting truth with this tool, and they probably do extract some truth, but is it so prevalent? Most people aren't hard core positivists, because most people aren't hard core (by definition). Though, people are very easily bullshited by numbers, I'll give you that. -->
+
+one same principle across the horizon of contemporary cultural forms. According to it, __there is no possible presence outside the infinite horizon of serial language__, as there is no legitimate presence outside the specific linguistic series that act as the historical gatekeepers of an ontology of positions. 
+
+p55
+
+__Technic demands no obedience__ – indeed, it doesn’t demand anything. Technic’s cosmology __sets a filter that allows access to a status of legitimate presence in the world__, only to those who have undergone a fundamental mutation in their ontological structure, and thus also in their position as ethical subjects. In this sense, the __metaphysical policing enacted by Technic is always a form of border control, enforcing the most profound kind of discrimination.__
