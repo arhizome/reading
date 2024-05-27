@@ -1,5 +1,7 @@
 FEDERICO CAMPAGNA: Technic and Magic, The Reconstruction of Reality 
 
+
+# Introduction
 p18
 
 just like a certain type of architecture requires a particular array of materials, so also a certain type of materials seems to have implicit within itself a particular array of possible architectures. 
@@ -19,6 +21,7 @@ __but this doesn’t make it any less contingent than any other possible form of
 
 __reality-systems are contingent conglomerates of metaphysical axioms, ... their modification is always possible.__ Indeed, we are always able to modify our own reality-settings beyond the diktats of our social context, even when history tells us that we are powerless and stuck.
 
+# Technic's world
 p29
 
 __‘reality’ is the name that we assign to a state in which the dimension of essence (what something is) and the dimension of existence (that something is) are inextricably bound to each other, without merging__ into one another.
@@ -145,3 +148,14 @@ one same principle across the horizon of contemporary cultural forms. According 
 p55
 
 __Technic demands no obedience__ – indeed, it doesn’t demand anything. Technic’s cosmology __sets a filter that allows access to a status of legitimate presence in the world__, only to those who have undergone a fundamental mutation in their ontological structure, and thus also in their position as ethical subjects. In this sense, the __metaphysical policing enacted by Technic is always a form of border control, enforcing the most profound kind of discrimination.__
+
+## Symbolism of flat and spherical Earth
+p57
+
+__Understood symbolically, the image of a flat Earth points to two intuitive objects of human experience: that the inhabitable world of each of us is at once shaped and enhanced by its limits, and that beyond these limits lies, not ‘nothing’ but something at once altogether different and yet contiguous.__ Conversely, the symbol of a spherical Earth hints at a different ontological vision, according to which the world stretches without boundaries, seamlessly closed onto itself, while outside of its smooth surface it is possible to find either nothing at all, or other equivalent spheres, that is repetitions of the same form of existence.
+
+we can interpret the contemporary fantasy of a world of antiquity stuck in the belief of a Flat Earth, as the case of a __‘subject supposed to believe’__, Slavoj Žižek’s own reinterpretation and expansion of Lacan’s concept of a ‘subject supposed to know’.
+
+p58 
+
+Our contemporaries attribute the belief in a flat Earth to pre-modern ignoramuses, because __we all believe, hope and indeed know very well that the Earth is flat. The symbol of a flat Earth, that is, of a world that is at once shaped and enhanced by its limits, and which is not surrounded merely by nothingness or sameness but that also allows radical alterity, speaks more profoundly and truthfully to our experience than that of a spherical Earth.__ Whatever in us still resists Technic’s call for absolute ontological conformity, for a ‘final solution’ into nothingness of anything that isn’t reducible to serial language, whatever in us still resists this knows, hopes and believes in an alternative cosmology to the claustrophobic sphere of Technic. Yet, such dangerous hope and knowledge shouldn’t be displayed too publicly; better to attribute it to somebody else, somebody distant enough to be unable to find us out – like the ancients. 
