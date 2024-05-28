@@ -159,3 +159,14 @@ we can interpret the contemporary fantasy of a world of antiquity stuck in the b
 p58 
 
 Our contemporaries attribute the belief in a flat Earth to pre-modern ignoramuses, because __we all believe, hope and indeed know very well that the Earth is flat. The symbol of a flat Earth, that is, of a world that is at once shaped and enhanced by its limits, and which is not surrounded merely by nothingness or sameness but that also allows radical alterity, speaks more profoundly and truthfully to our experience than that of a spherical Earth.__ Whatever in us still resists Technic’s call for absolute ontological conformity, for a ‘final solution’ into nothingness of anything that isn’t reducible to serial language, whatever in us still resists this knows, hopes and believes in an alternative cosmology to the claustrophobic sphere of Technic. Yet, such dangerous hope and knowledge shouldn’t be displayed too publicly; better to attribute it to somebody else, somebody distant enough to be unable to find us out – like the ancients. 
+
+The former type of ontology allows for a plurality of types and levels of existence, while recognizing the specificity of each one within their constitutive limits. Not only does the __ontology symbolized by a disc-world allow for each thing to exist in its own place, in a mosaic of myriad ontological alterities, it also understands that a thing can be expected to exist and to act only on the basis of its particular accesses to the levels of existence__, and of its own particular form and limits. Conversely, __the ontology symbolized by a spherical world__, which is typical of Technic’s cosmology, __denies any ontological plurality both within its own cosmos__ (all positions are ontologically equivalent to each other, as sections of the same all-encompassing series-system), __and also between its cosmos and anything outside of it__ (since no existence or presence is envisaged outside of the series-system itself, then no fundamental ontological alterity is possible)
+<!-- This is such a fun idea. Although I'd say it's a big stretch xD -->
+
+p60
+A person still knows, hopes and believes to be ‘something’ rather than ‘nothing’. But such awareness has to face a reality-system (or better a system of unreality) in which autonomous existence as a subject is no longer possible.
+<!-- Mahdude, autonomous existence was never an possible. What are you even talking about? xD -->
+
+p62
+What until recently was uncontroversially characterized as psychopathology, is now presented as a normal condition for a large part of contemporary humanity.
+<!-- Oh no, are you a queerphobe?.. -->
