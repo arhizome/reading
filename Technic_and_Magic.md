@@ -181,3 +181,11 @@ In this sense, __language’s production is fundamentally ontological, consistin
 However, when language is taken absolutely, that is when it is unbound (ab-solutus) from any external constraint or from any other principle outside itself, the world that it creates suddenly becomes the only possible ontological field. __When language becomes absolute language, its cosmogony ceases to be just one possible way of looking at the world__ (namely, in terms of which figures have a legitimate presence in it, as communicable and operable items) __becoming instead an all-encompassing terrain. Outside of it, nothing is permitted; outside of negotiated linguistic ‘presence’, nothing is allowed, not even existence as it stands ineffably in itself.__ __Existence is substituted by presence__, and its stability is taken over by the negotiating process of language. Language creates the world in its own image, and when it becomes absolute, suddenly there is no longer anything outside the world.
 
 The process of ontological negotiation that normally takes place at the level of language, now becomes fully internal to language itself; it is no longer an extra-linguistic interlocutor that accepts or rejects candidates to presence in the world, but __it is the very fabric of language that absorbs or rejects possible figures as they emerge from language itself.__ In the state in which it becomes absolute, language presents itself as supposedly uttered by no mouth; rather, it claims to be at once its own creator and creation.
+
+p76
+
+__Considered ontologically, truth’s reference tosomething ‘being the case’, takes the place of something simply ‘being’.__
+
+p77
+
+A series, understood in the context of an ontology of positions, is always fundamentally an articulation of the 1–0, ‘being or not the case’ sequence.
