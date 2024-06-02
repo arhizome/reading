@@ -186,6 +186,38 @@ p76
 
 __Considered ontologically, truth’s reference tosomething ‘being the case’, takes the place of something simply ‘being’.__
 
-p77
+p77-78
 
 A series, understood in the context of an ontology of positions, is always fundamentally an articulation of the 1–0, ‘being or not the case’ sequence.
+
+Within Technic’s equivalence between truth and representation, truth stands for the essence of language’s fundamental process of signification; what used to be the autonomous existence of things, is here degraded to a state of affairs that is entirely dependent on the sanction given to it by the series in which it is inserted.
+<!-- Yeah, hmm, hmmm. How is it "degraded"? How is it a bad thing at all, mahdude? Autonomous existence of things is not a thing. Well, it is, but it's unattainable for us. There are things that cannot be perceived. And I don't even mean inherently ideological concepts like justice or love or whatever. Radiation is a thing. And like, yeah you have to make a representation of it that is then sanctioned by the bigger theoretical model to give it truthness. Existence isn't an easy concept. Didn't you write it somewhere a few pages ago yourself? -->
+
+__At the same time, truth indicates how the precarious and subordinate state of things__ reduced to states of affairs, __is nonetheless the only possible form of presence__ in Technic’s world; the 1–0 series is a functional series, on the basis of the metaphysical axiom that there is indeed nothing else apart from that which can be reduced to its ‘being the case’ or ‘not being the case’.
+<!-- I really don't think it's such a hegemony. The constructivism/objectivism debate goes on forever. Scientists know that they're using models which aren't complete representations of reality. Reduction is an important part of a model, you have to simplify the real to be able to make sense of it. -->
+
+In brief, truth refers to the ontological transformation undergone by the existent as it is subsumed within absolute language, and thus within Technic’s cosmology.
+<!-- But do we have anything else beside language to grasp the real? Like... I can't thing of anything. So Technic just accepts this limitation and doesn't care for what's outside of language, because there's little you can do with it. -->
+
+A thing (inasmuch as it is an existent, rather than a purely linguistic construct or a state of affairs) exists not only in itself, but also in a specific ‘localization’.
+<!-- *Laughs in Physics* -->
+
+Even ideas, considered as immaterial ‘things’, exist autonomously not only in themselves, but also in a specific relationship with their emergence within reality as ‘that and that’ idea. __It is this combination between autonomous existence in itself, on the one hand, and the specific localization of an existent as ‘that’ existent, on the other, that makes things possible objects for subjects and vice versa.__
+
+Conversely, once things have been turned into states of affairs, they are no longer endowed with existence in themselves, nor are they constrained by any other localization but their belonging to a series.
+<!-- Wtf do you meeeean..... This sounds just like bullshit nitpicking. Is this localization not good enough? How does any other localization work, tell me. Have you heard of Heisenberg's uncertainly principle? There is _NO_ other localization. Also, 'things are no longer endowed with existence in themselves'? How comes? Why? WTF are you talking about?" -->
+
+They have neither existence ‘in themselves’, nor any unique ‘that-ness’. This means that they can appear simultaneously in different locations, at the same time as part of different historical series referring to culture, economics and so on.
+<!-- How does language work? xD Oh no, words can refer to different things simultaneously. Ffs, I hope I'm misunderstanding this massively. xD -->
+
+In fact, they are merely their own simultaneous presence within multiple series, that is, they are nothing more than the simultaneous activation of positions in different series.
+<!-- Ok, ok, so, I think your point is like 'what if we took language too seriously'. Right? Technic is 'language on steroids' that forgets about it being a language.  -->
+
+The availability of the object of truth (i.e. a state of affairs that ‘is or not the case’) to feature simultaneously in several different locations or series, amounts to its ability to be re-presented infinitely. This form of infinite replicability, raised to the level of an ontological principle, does not refer to the case of an original being copied countless times, but rather to something being simultaneously present in a potentially infinite number of locations.
+<!-- How is it a bad model? If anthing, this is a more rhizomatic model than the arbial model of 'original' thing that is copied. And I do like rhizomatic approach more. :3 -->
+
+__this ability to be limitlessly re-presented is a specific and constitutive aspect of state of affairs within absolute language__, we can take it as __one of their defining ontological qualities__. Understood as such, representation has to do at the same time with the non-specificity and non-substantiality of the ‘stuff’ that makes up Technic’s cosmology, and with its availability to be replicated indefinitely, that is to be the object of production.
+<!-- Nooooooo.... Phones baaaaad! xD Look, production is not inherently evil. What is condemned in the figure of simulacra is the state of free, oceanic differences! -->
+
+Truth as representation and representation as truth, indicates an ontological scenario in which the ‘stuff’ that makes up the world is merely a ‘state of affairs’, at once devoid of autonomous existence, uniqueness and substantiality, and so radically un-situated at an ontological level as to be available for limitless reproduction – better, corresponding exactly to its own reproduction.
+<!-- No, but still an interesting take. -->
