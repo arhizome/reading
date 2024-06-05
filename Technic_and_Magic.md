@@ -221,3 +221,35 @@ __this ability to be limitlessly re-presented is a specific and constitutive asp
 
 Truth as representation and representation as truth, indicates an ontological scenario in which the ‘stuff’ that makes up the world is merely a ‘state of affairs’, at once devoid of autonomous existence, uniqueness and substantiality, and so radically un-situated at an ontological level as to be available for limitless reproduction – better, corresponding exactly to its own reproduction.
 <!-- No, but still an interesting take. -->
+
+p80
+
+While absolute language insisted on the fact that anything wishing to claim legitimate presence in the world has to rely on its belonging to the structure of a series, measure adds that it also has to consider the series as its ultimate goal. __It is not enough that the ‘stuff’ of the world under Technic, has to mutate in order to be suitable to enter a series: it also has to understand the ever-expansion of its series as its overarching *ethical goal*.__ Measure, thus, inserts an ethical dimension within Technic’s cosmogony, setting the general direction for action in all subsequent hypostases. 
+<!-- Hm, okay, that sounds like massively misunderstood scientific method, doesn't it? -->
+
+p82
+
+It is not a matter, as many well-meaning humanists have often repeated, that in our contemporary world things have been turned into numbers, rather both things and numbers have been reduced to one same type of __annihilating ontology__.
+
+p92
+
+Considered ontologically, __the nothingness that ‘I’ am,__ and my complete reduction to a set of instrumental units in a number of historical series of production, is here slightly mitigated by the provision of __a category into which ‘my’ nothingness can find a place__, however fictitious.
+
+p93
+
+Of course, the AGE is a __purely nominalistic construct__, in that it is little more than a name defining a specific pattern. Indeed, within Technic’s cosmology, __nothing makes the specific pattern that I call ‘myself’, more essentially appropriate than, say, another pattern that includes parts of myself, aspects of a cup, the level of ozone__ in the atmosphere and a number of moments from the Battle of Verdun.
+
+p94
+
+__for determinism to take place there should be at least a theoretical possibility for things to be different than they actually are__
+
+Humans (or farmed animals, or waterfalls, etc.) are subjected to a condition of hyper-exploitation, stretching from traditional forms of work to the exploitation of our emotions, because __our very ontological position in the world is merely that of specific patterns of activities.__ We seem to have become nothing else but workers, because in Technic’s cosmology __we are nothing but work.__
+
+There is no ghostly 1 per cent of the population that authentically enjoys all this, or truly benefits from it, or specifically wills for us to be enslaved – because technically there is nothing at all, except the ever-expansion of the series that composes Technic’s cosmology
+
+p95-96
+
+within the present world as ruled by Technic __there is no distinction between desire, activity, people and things__; none of these things exist, but they are all merely present as instances of activations of positions in series.
+
+The very notion of desire, which in common parlance we still continue to attribute to ourselves, has to be interpreted in the light of Technic’s cosmogonic project. Since AGEs are not distinct from their productive activity, they are not different from what we usually call their ‘desire’. Desire for something, within Technic, is just the passage to a new activation in a different series. As I desire to buy a product, for example, I merely activate a new position in the consumer-series, specifically in the sub-series related to that product or service. This ever- growing expansion in the number of simultaneous activations, which we could call ‘infinite desire’, is, in fact, the very process through which Technic’s cosmogony unfolds. Within this perspective, __all types of desire are equal and equally legitimate__, since they all ultimately boil down to the same process, fulfilling the same, fundamental, cosmogonic function. 
+__The only type of desire that finds no legitimacy__ here is, of course, that which __is__ entirely negative – a form of total __anhedonia that seeks no redemption or supplement.__
