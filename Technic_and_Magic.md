@@ -253,3 +253,46 @@ within the present world as ruled by Technic __there is no distinction between d
 
 The very notion of desire, which in common parlance we still continue to attribute to ourselves, has to be interpreted in the light of Technic’s cosmogonic project. Since AGEs are not distinct from their productive activity, they are not different from what we usually call their ‘desire’. Desire for something, within Technic, is just the passage to a new activation in a different series. As I desire to buy a product, for example, I merely activate a new position in the consumer-series, specifically in the sub-series related to that product or service. This ever- growing expansion in the number of simultaneous activations, which we could call ‘infinite desire’, is, in fact, the very process through which Technic’s cosmogony unfolds. Within this perspective, __all types of desire are equal and equally legitimate__, since they all ultimately boil down to the same process, fulfilling the same, fundamental, cosmogonic function. 
 __The only type of desire that finds no legitimacy__ here is, of course, that which __is__ entirely negative – a form of total __anhedonia that seeks no redemption or supplement.__
+
+p96
+
+Considered serially, time doesn’t quite exist, neither linearly nor cyclically. __Within the ever-expanding movement of purely abstract, linguistic series, time is just the rhythm of their expansion__; it runs after itself, and its only mode of presence is that of ‘lateness’. 
+
+p97
+
+Within Technic, moments and events are never temporally ‘present’, since their presence is only retrospectively confirmed by the act of their recording and broadcasting within the series of production.
+<!-- Phones bad I guess xD -->
+
+Nor are they ever truly ‘future’, since their potential presence is already, in itself, productive. Equally, they can never be said to be ‘past’, since their past activation of a position in a series remains always active as the foundation on which later instances of expansion take place. Rather, __every moment and event within Technic is defined temporally only as ‘late’, that is as ‘not fast enough’.__
+<!-- Okay, okay, you got me here. This is an excellent phrase. -->
+
+p100
+
+The irreducible mystery of life, stubbornly escaping Technic’s capture, is converted into a theme park for Technic’s triumph. By resolving its resistance into a case of vulnerability – that is as endless possibility for resolution – life is turned into the stage for Technic’s denial of its own limits. 
+
+The crumbling support that life as vulnerability offers to Technic’s unfolding, and which would eventually lead to Technic’s own demise, is __frozen in the very instant of its crumbling__; it is never a resolved situation, or a complete defeat.
+
+p101
+
+__If we understand mental illness merely as a lack of mental health, and if we consider health simply as a state of functional presence__ within the serial system of production, then we imply that it is exactly in the form of absolute language that we seek our redemption. 
+
+p102
+
+As the uppermost limit to Technic’s chain of emanations, we find a form of paradox that could be defined as the Ego Absconditus, the ‘hidden I’. We noticed how the first hypostasis and first principle of absolute language shuns any notion of situatedness or of external enunciation; __absolute language presents itself as a language spoken by no mouth, in no place or time.__ By abolishing the very possibility of anything existing outside of its own terrain, absolute language wishes to deny also its own origin as deriving from anywhere
+
+p103
+
+The idea of ‘absolute’ being, as it is commonly employed by philosophers, is not even an initial idea for them, for the passive participle ‘absolute’ presupposes an absolvens, an ‘absolution’ of being, liberating being by putting it not in the infinitive (esse), nor in the substantival participle (ens), but in the imperative (esto).
+    H. Corbin, History of Islamic Philosophy, London and New York: Kegan Paul International, 1993, p. 354.
+
+Regardless of how categorically absolute language states to be the product of its own enunciation, __as language it still requires a non-linguistic source in order to be able to emerge as a phenomenon__
+
+# Intermission: What is reality?
+
+### Understand existence and essence 
+p111-112
+We can __understand ‘existence’ and ‘essence’ as two limit-concepts__, that is, as the two opposite extremes of one same continuum. We can define this continuum in several different ways: for example, as the __continuum between ineffability and language__, or between __direct apprehension and rational categorization__, or again as the continuum between the __unthinkable and the thinkable__, or between the __unmeasurable__ substratum __and the measure__ of specific limits and so on. In each of these oppositions, we can position __‘existence’ as the limit-concept that tends towards the former pole__, while ‘essence’ as the limit-concept that tends towards the latter pole.
+
+p113
+
+__Reality is__ the space that is available to our existential experience of life in the world, oscillating between pure contemplation and pure activity, while never truly reaching either extreme pole.
