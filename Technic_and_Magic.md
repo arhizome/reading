@@ -296,3 +296,15 @@ We can __understand ‘existence’ and ‘essence’ as two limit-concepts__, t
 p113
 
 __Reality is__ the space that is available to our existential experience of life in the world, oscillating between pure contemplation and pure activity, while never truly reaching either extreme pole.
+
+p117
+
+As we observed in the previous section on __Technic__, the present reality-system and its cosmological structure move towards a disintegration of reality, through the __annihilation of existence__ (by denying the very principle of existence in itself, as it stands ineffably beyond linguistic categorization) __and the hypertrophy of essence__ (pushed to its limit, to coincide as much as possible with the very principle of absolute language). What used to be the segment stretching between the fuzzy boundaries of existence and essence – that is, reality as such – is now reduced to a mere point, at once entirely coincident with pure essence and devoid of any existence. The frame collapses, and reality vanishes with it. 
+
+Again, from an eminently human, existential position, this disintegration of reality bears significant and dramatic consequences. As we have seen, the cosmology of Technic brings human action and imagination to a state of paralysis: __a condition of constant and severe existential anxiety that forces every existent to consider themselves illegitimate impostors inasmuch as they exist.__ 
+
+# Magic's comogony
+p121
+__As it is usually presented today – most notably in films and literature – magic amounts to little more than a set of spectacular technical skills__, reducible to the equivalent of as-yet undiscovered scientific advancements in the field of technology. Magic is thus considered as merely another, possibly more exotic way to exploit the world as a stockpiling of standing-reserves, which the magician is able to mobilize through his/her individual powers. As we shall see in the next and final chapter of this book, this understanding of magic is exactly opposite to that which characterized the late ancient practice of theurgy and, more generally, the tradition of ‘true magic’ spanning from late antiquity to the end of the Renaissance era.
+
+... since its earliest definition as such, __magic has been bound to be understood as the shadow of whatever society knows and calls its own.__
