@@ -308,3 +308,9 @@ p121
 __As it is usually presented today – most notably in films and literature – magic amounts to little more than a set of spectacular technical skills__, reducible to the equivalent of as-yet undiscovered scientific advancements in the field of technology. Magic is thus considered as merely another, possibly more exotic way to exploit the world as a stockpiling of standing-reserves, which the magician is able to mobilize through his/her individual powers. As we shall see in the next and final chapter of this book, this understanding of magic is exactly opposite to that which characterized the late ancient practice of theurgy and, more generally, the tradition of ‘true magic’ spanning from late antiquity to the end of the Renaissance era.
 
 ... since its earliest definition as such, __magic has been bound to be understood as the shadow of whatever society knows and calls its own.__
+
+p124
+
+__Technic__’s founding movement consists in making __a thing’s legitimate claim to existence entirely dependent on its detectability and classification__ by the system of seriality and by absolute language – to the point that a thing is liquefied into its very classification. __Conversely, Magic__’s cosmogonic process originates precisely from that dimension of existence which can never be reduced to any linguistic classification. 
+
+In an age such as ours, governed as it is by the principle of total language, __any semantic sign denotes merely a position in a series__. Their function is allegorical, in that they are __deemed capable of conveying precisely and entirely the object of their signification__ – which ultimately coincides with the position itself. This allegorical exhaustion and precision is a fundamental aspect of Technic’s cosmology
