@@ -314,3 +314,17 @@ p124
 __Technic__’s founding movement consists in making __a thing’s legitimate claim to existence entirely dependent on its detectability and classification__ by the system of seriality and by absolute language – to the point that a thing is liquefied into its very classification. __Conversely, Magic__’s cosmogonic process originates precisely from that dimension of existence which can never be reduced to any linguistic classification. 
 
 In an age such as ours, governed as it is by the principle of total language, __any semantic sign denotes merely a position in a series__. Their function is allegorical, in that they are __deemed capable of conveying precisely and entirely the object of their signification__ – which ultimately coincides with the position itself. This allegorical exhaustion and precision is a fundamental aspect of Technic’s cosmology
+
+p129
+
+the atman to be somehow __‘located’ behind any form of individual subjectivity that depends on a physical, sensorial, linguistic and even rational__ dimension. __The atman – the kernel of one’s self__ which truly is, which truly exists in itself – stands before all possibilities of objectification. __When I call myself ‘I’, it is not ‘I’, but something before my ‘I’ that does so.__ If I think of myself, it is not my thinking but something before that thinking – something behind and beyond it – that does so. That is the atman, at once the greatest secret and the most blatant reality. That is, according to Prajapati and to a great part of the religious and philosophical schools of Hinduism, your true self.
+
+p139
+Typically, [miracles] indicate occurrences in the field of the sensible that __do not have in themselves anything exceptional, apart from their apparent misplacement in what we understand as the ‘natural’ order of things.__
+
+p140
+As this miracle takes place, __the linguistic dimension appears to enter a state of extreme fragility__, and it seemingly disintegrates. On the one hand, my own linguistically definable dimension stinks of that __repressive idolatry of concepts which is imposed over it by society__. Society calls me ‘man’, yet every description with which they want me to identify, is but an annihilating cage where I am forced to give up myself. Yet on the other hand, if my truest part is this ineffable dimension that resists any form of description and classification, this seems to make me more of a ‘nothing’ than a ‘something’. 
+<!-- Some rad non-binary shit right there. But it's not 'nothing', there's just no word for it yet. -->
+
+‘I am not nothing in the sense of emptiness, but I am the creative nothing [schopftrische Niclzts], the nothing out of which I myself as creator create everything ’
+(Stirner, The Ego and Its Own, p.7)
