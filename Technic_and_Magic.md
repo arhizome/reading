@@ -328,3 +328,7 @@ As this miracle takes place, __the linguistic dimension appears to enter a state
 
 ‘I am not nothing in the sense of emptiness, but I am the creative nothing [schopftrische Niclzts], the nothing out of which I myself as creator create everything ’
 (Stirner, The Ego and Its Own, p.7)
+
+p142
+
+Until this point, language existed only potentially within the ineffable – here, for the first time, __the ineffable speaks. The unspeakable speaks, while remaining unspeakable.__ By speaking, ineffable life creates a distance from itself. What used to be the absolute localization of an ineffable ‘here’, becomes the first displacement of a ‘there’ that can be grasped linguistically.
