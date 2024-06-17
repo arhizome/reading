@@ -289,7 +289,7 @@ Regardless of how categorically absolute language states to be the product of it
 
 # Intermission: What is reality?
 
-### Understand existence and essence 
+## Understand existence and essence 
 p111-112
 We can __understand ‘existence’ and ‘essence’ as two limit-concepts__, that is, as the two opposite extremes of one same continuum. We can define this continuum in several different ways: for example, as the __continuum between ineffability and language__, or between __direct apprehension and rational categorization__, or again as the continuum between the __unthinkable and the thinkable__, or between the __unmeasurable__ substratum __and the measure__ of specific limits and so on. In each of these oppositions, we can position __‘existence’ as the limit-concept that tends towards the former pole__, while ‘essence’ as the limit-concept that tends towards the latter pole.
 
@@ -332,3 +332,15 @@ As this miracle takes place, __the linguistic dimension appears to enter a state
 p142
 
 Until this point, language existed only potentially within the ineffable – here, for the first time, __the ineffable speaks. The unspeakable speaks, while remaining unspeakable.__ By speaking, ineffable life creates a distance from itself. What used to be the absolute localization of an ineffable ‘here’, becomes the first displacement of a ‘there’ that can be grasped linguistically.
+
+## Person
+p143
+
+in the perspective of Magic’s cosmology the term ‘person’ has little to it that is specifically human. __Every non-human ‘this’, like every human ‘I’, is merely the first instance of a linguistic ground to which attributes and properties can be conceptually attributed__, and, whether attached to humans or non-humans, it is equally suitable to enable the emergence of a ‘person’. Drawing on its Latin etymology, per-sonar, a ‘person’ is just the first point through which the ineffable resounds. __A person is defined as such, exactly on the basis of its ability to be traversed by the light or sound of the ineffable dimension of existence – that is, by life.__
+
+p148
+the Hidden Imam is: ‘the Perfect Man, the Integral Man, “for it is he who enables all things to speak, and, __in becoming alive, each thing becomes a threshold of the spiritual world__”’. H. Corbin, History of Islamic Philosophy, London: Routledge, 2014, p. 72
+
+## person’s work
+p149
+If we understand the ineffable as life, and life as the ineffable, this means that __*the person’s work consists primarily in shaping dead linguistic constructs, to render them*__ alive. Or, more correctly, to render them __*at once alive and dead*__, coherently with the fact that such a world is at once an emanation of the (living) ineffable, and a (dead) linguistic construct.
