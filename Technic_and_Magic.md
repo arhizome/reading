@@ -344,3 +344,19 @@ the Hidden Imam is: ‘the Perfect Man, the Integral Man, “for it is he who en
 ## person’s work
 p149
 If we understand the ineffable as life, and life as the ineffable, this means that __*the person’s work consists primarily in shaping dead linguistic constructs, to render them*__ alive. Or, more correctly, to render them __*at once alive and dead*__, coherently with the fact that such a world is at once an emanation of the (living) ineffable, and a (dead) linguistic construct.
+
+# allegory vs symbol
+p151
+Symbol and allegory aren’t just different semantic devices. Taken as cosmogonic principles in themselves (leading respectively to allegorical reality versus symbolic reality), they represent different conceptions of the ‘stuff’ that makes up reality. The allegorical method, as a cosmogonic principle, is closely connected to Technic’s renunciation to reality in favour of a plain of essence without existence. Allegory’s first and overt claim is of language’s ability to properly and exhaustively capture the existent: if there are things in the world, they can be properly and exhaustively expressed by allegorical (i.e. descriptive) language. Secondly, but more importantly, allegory’s implicit claim is about the supposed coincidence between the range of language’s capture and the range of what is ontologically possible. 
+Conversely, a symbol doesn’t capture or exhaust its object. Rather, it ‘points’ towards it.
+
+## animal symbolicum 
+p152
+Cassirer defines the human as an ‘animal symbolicum’. According to Cassirer, any cultural system, spanning from art to science, finds its primary source in the uniquely human way of thinking through symbols. 
+
+## meaning
+p159
+According to Bhartrhari, it is __at the level of the sentence that language truly expresses meaning__, while individual words or particles are only abstract ways of fragmenting the semantic unit of a sentence. __A sentence is composed by words, yet it is not reducible to any of them, in the same way that a word is not reducible to any of its individual composing sounds.__ 
+
+p160
+__the very act of perception is__, according to Bhartrhari, __a quintessentially linguistic act__, but the very constitution of the world is the product of the language-principle.
