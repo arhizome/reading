@@ -360,3 +360,7 @@ According to Bhartrhari, it is __at the level of the sentence that language trul
 
 p160
 __the very act of perception is__, according to Bhartrhari, __a quintessentially linguistic act__, but the very constitution of the world is the product of the language-principle.
+
+## language wraps life
+p164
+as the dead element of language wraps itself evermore tightly around the original life that animates it, it becomes all the more important to tailor such linguistic clothing in a way that safeguards the living element within it. 
