@@ -345,7 +345,7 @@ the Hidden Imam is: ‘the Perfect Man, the Integral Man, “for it is he who en
 p149
 If we understand the ineffable as life, and life as the ineffable, this means that __*the person’s work consists primarily in shaping dead linguistic constructs, to render them*__ alive. Or, more correctly, to render them __*at once alive and dead*__, coherently with the fact that such a world is at once an emanation of the (living) ineffable, and a (dead) linguistic construct.
 
-# allegory vs symbol
+## allegory vs symbol
 p151
 Symbol and allegory aren’t just different semantic devices. Taken as cosmogonic principles in themselves (leading respectively to allegorical reality versus symbolic reality), they represent different conceptions of the ‘stuff’ that makes up reality. The allegorical method, as a cosmogonic principle, is closely connected to Technic’s renunciation to reality in favour of a plain of essence without existence. Allegory’s first and overt claim is of language’s ability to properly and exhaustively capture the existent: if there are things in the world, they can be properly and exhaustively expressed by allegorical (i.e. descriptive) language. Secondly, but more importantly, allegory’s implicit claim is about the supposed coincidence between the range of language’s capture and the range of what is ontologically possible. 
 Conversely, a symbol doesn’t capture or exhaust its object. Rather, it ‘points’ towards it.
@@ -364,3 +364,21 @@ __the very act of perception is__, according to Bhartrhari, __a quintessentially
 ## language wraps life
 p164
 as the dead element of language wraps itself evermore tightly around the original life that animates it, it becomes all the more important to tailor such linguistic clothing in a way that safeguards the living element within it. 
+
+p169
+Reaching an understanding of the coincidence of opposite, typically constitutes the pinnacle of the esoteric and alchemical opus: it is the accomplishment of the ‘work’ undertaken by __those who trace the ineffable within the world of language, or the indistinct within the world’s myriad distinctions__, only to realize that ultimately __the ineffable was always-already present within language itself__. 
+
+p171
+Any object whatever may paradoxically become a hierophany, a receptacle of the sacred, while still participating in its own cosmic environment (__a sacred stone, e.g., remains nevertheless a stone along with other stones__).
+    M. Eliade, Images and Symbols, Princeton, NJ: Princeton University Press, 1991, pp. 84–5.
+
+Hierophanies make apparent the coincidence of opposites that is at the heart of Magic’s fifth hypostasis, that is, of the complete form of Magic’s world. __A sacred stone is at the same time sacred and profane__, just like Jesus Christ is at the same time God and Man. 
+Applied to the metaphysics and ethics of Magic’s world this entails the __ontological legitimacy of both the world’s ineffable dimension, and of its linguistic one__. In the Roman arch, one side of the semicircle achieves lightness thanks to the coincident weight of the opposing side, with the central keystone regulating their interaction. Likewise, __ineffability achieves lightness through the coincident impact of language__, with the overarching form of Magic acting as the keystone. __‘Lightness’, within this perspective, amounts to the very emergence of ‘reality’ as such – that is, as a space where worldly existence, action and imagination are both possible and authentic.__ 
+If we compare the paradoxical lightness of Magic’s world, with the unbearable weight of Technic’s world of ‘possibility’, we can appreciate the therapeutic quality of Magic’s entire cosmogonic project. __Whereas Technic’s ‘possibility’ attempts to relieve its own weight through an endless extension of its limits – hence its lust for infinite growth – Magic’s ‘paradox’ seeks to resolve this issue through intensive harmony.__ 
+
+## self
+we shall approach the notion of the __Self__ as the archetypal incarnation of Magic’s fifth hypostasis, that is __as a figure in which the coincidence between the opposites of ineffability and language, existence and essence, is finally realized__ – and, at the same time, as the place in which Magic’s cosmogonic force dies and restarts anew.
+
+## garden
+p174
+the garden remains through the centuries a place in which __the sacred meets the profane, or, more accurately, in which the profane is sacralized through a particular mixing of nature and art.__
