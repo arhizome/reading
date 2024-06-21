@@ -382,3 +382,10 @@ we shall approach the notion of the __Self__ as the archetypal incarnation of Ma
 ## garden
 p174
 the garden remains through the centuries a place in which __the sacred meets the profane, or, more accurately, in which the profane is sacralized through a particular mixing of nature and art.__
+
+## god
+p178
+According to apophatic theology, it is impossible to capture God’s essence through the means of language. Whatever we say about God, even attributing to him the most exalted and triumphant attributes, constitutes a form of blasphemy in the eyes of apophatic theologians. To them, __saying that God is ‘great’ or ‘good’ – or even that He ‘exists’ – is a crass attempt at reducing His absolutely transcendent nature.__
+Conversely, cataphatic theologians claimed that what is truly blasphemous is their opponents’ attempt to rob God of His attributes. How can we say that God is not good, not great and even that He does not exist? Cataphatic theology insists that God indeed possesses all positive attributes, though to such an extreme degree that they are incomparable with what we can appreciate from our merely human perspective.
+
+According to Suhrawardi, both positions were partly right and partly wrong. Negative theologians were correct to stress the absolutely transcendent nature of God: He truly is behind the grasp of language or the limited reach of attributes. Nonetheless, positive theologians were also correct to state that, if attributes belong to anybody, they certainly do all the more so to God. Suhrawardi thus proposed Double Negation as a way to characterize God in such a way that He wouldn’t be robbed of His transcendence nor of His immanence. All we can truly say about God, so claimed Suhrawradi, is that He is not-not good, not-not great, that He does not-not exist and so on. By adding a second negation to the one proposed by apophatic theology, we limit the hybris of thinking that negation is capable of conveying God’s essence, while also safeguarding His claim over the field of language. __God’s essence is at such a level of transcendence, that it goes beyond transcendence itself.__
